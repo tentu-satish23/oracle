@@ -1,0 +1,10 @@
+{
+  "name": "oops-oracle",
+  "version": "1.0.0",
+  "description": "OOP'S ORACLE - Master Java. Master Logic. Build Your Future.",
+  "scripts": {
+    "server": "node server/src/index.js",
+    "client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build"
+  }
+}
