@@ -1,0 +1,6002 @@
+[
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "JVM Architecture & Runtime Subsystems",
+    "topic": "JVM Internal Architecture & ClassLoader Subsystem"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "JVM Architecture & Runtime Subsystems",
+    "topic": "HotSpot JIT Compiler & Tiered Compilation"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "JVM Architecture & Runtime Subsystems",
+    "topic": "Bytecode Verification & .class Binary Structure"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "JVM Architecture & Runtime Subsystems",
+    "topic": "JVM Runtime Memory Areas: Heap, Stack & Metaspace"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "JVM Architecture & Runtime Subsystems",
+    "topic": "Java Execution Lifecycle from Source to Machine Code"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "JVM Architecture & Runtime Subsystems",
+    "topic": "JVM Startup Flags (-Xms, -Xmx, -XX:+UseG1GC)"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "JVM Architecture & Runtime Subsystems",
+    "topic": "Bootstrap, Platform, and Application ClassLoaders"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "JVM Architecture & Runtime Subsystems",
+    "topic": "Java 17 LTS Innovations & Feature Matrix"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "JVM Architecture & Runtime Subsystems",
+    "topic": "JIT Code Cache & Tiered Execution Levels"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "JVM Architecture & Runtime Subsystems",
+    "topic": "Native Method Stack & JNI Boundary Mechanics"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Syntax & Type Primitives",
+    "topic": "Primitive Types & IEEE 754 Floating-Point Precision"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Syntax & Type Primitives",
+    "topic": "Literal Formats: Binary, Octal, Hex & Underscores"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Syntax & Type Primitives",
+    "topic": "Narrowing vs Widening Type Conversions"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Syntax & Type Primitives",
+    "topic": "Wrapper Class Architecture & -128 to 127 Caching"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Syntax & Type Primitives",
+    "topic": "Autoboxing Overhead in Computational Loops"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Syntax & Type Primitives",
+    "topic": "Constant Variables with final & Inlining Rules"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Syntax & Type Primitives",
+    "topic": "Local Variable Type Inference (var Keyword Semantics)"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Syntax & Type Primitives",
+    "topic": "Unsigned Integer Arithmetic in Modern Java"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Syntax & Type Primitives",
+    "topic": "Character Encodings, Code Points, and UTF-16"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Syntax & Type Primitives",
+    "topic": "BigDecimal Precision for Financial Computations"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Operators & Branching Flow",
+    "topic": "Operator Precedence & Short-Circuit Logic"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Operators & Branching Flow",
+    "topic": "Bitwise Masking, Shifting (<<, >>, >>>)"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Operators & Branching Flow",
+    "topic": "Enhanced Switch Expressions & Arrow Syntax"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Operators & Branching Flow",
+    "topic": "Pattern Matching for Switch with Type Guards"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Operators & Branching Flow",
+    "topic": "Labeled Breaks, Continues, and Deep Loop Exit"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Operators & Branching Flow",
+    "topic": "For-Loop Bytecode Compilation & Iterable Contract"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Operators & Branching Flow",
+    "topic": "Branch Prediction Penalties & Optimization"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Operators & Branching Flow",
+    "topic": "Ternary Operator Type Inferences & Null Traps"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Operators & Branching Flow",
+    "topic": "Floating-Point Comparison with Epsilon Tolerances"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Operators & Branching Flow",
+    "topic": "Bitwise Parity and Single-Number Detection"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Data Layout & Memory Mechanics",
+    "topic": "Array Memory Allocation & Cache Line Locality"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Data Layout & Memory Mechanics",
+    "topic": "Multidimensional & Ragged Arrays Memory Layout"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Data Layout & Memory Mechanics",
+    "topic": "Array Bounds-Check Elimination by HotSpot JIT"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Data Layout & Memory Mechanics",
+    "topic": "System.arraycopy vs Arrays.copyOf Benchmarks"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Data Layout & Memory Mechanics",
+    "topic": "String Constant Pool & PermGen to Heap Evolution"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Data Layout & Memory Mechanics",
+    "topic": "Compact Strings & Latin-1 vs UTF-16 in JDK 17"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Data Layout & Memory Mechanics",
+    "topic": "StringBuilder Capacity Growth Formula (2N+2)"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Data Layout & Memory Mechanics",
+    "topic": "String.intern() Internals & Native Hash Tables"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Data Layout & Memory Mechanics",
+    "topic": "Text Blocks & Raw String Literals in Java 17"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Data Layout & Memory Mechanics",
+    "topic": "Escape Analysis & Scalar Replacement Optimization"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Memory Management & Enterprise Readiness",
+    "topic": "Garbage Collection Fundamentals & STW Pauses"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Memory Management & Enterprise Readiness",
+    "topic": "Generational GC Hypothesis (Young vs Old Gen)"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Memory Management & Enterprise Readiness",
+    "topic": "Garbage-First (G1) Collector Regional Compaction"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Memory Management & Enterprise Readiness",
+    "topic": "ZGC (Z Garbage Collector) Sub-Millisecond Pauses"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Memory Management & Enterprise Readiness",
+    "topic": "Weak, Soft, and Phantom Reference Lifecycles"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Memory Management & Enterprise Readiness",
+    "topic": "Cleaner API vs Deprecated Object.finalize()"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Memory Management & Enterprise Readiness",
+    "topic": "Java Platform Module System (JPMS) module-info"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Memory Management & Enterprise Readiness",
+    "topic": "jlink Tool for Minimal Lightweight Custom JREs"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Memory Management & Enterprise Readiness",
+    "topic": "ProcessBuilder API for Subprocess Management"
+  },
+  {
+    "course": "Java Programming Fundamentals",
+    "courseId": 1,
+    "module": "Memory Management & Enterprise Readiness",
+    "topic": "Production Java 17 Clean Architecture Guidelines"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Primitive Types & Memory Layout",
+    "topic": "Primitive vs Reference Types in JVM Memory"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Primitive Types & Memory Layout",
+    "topic": "Byte, Short, Int, Long Two's Complement Arithmetic"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Primitive Types & Memory Layout",
+    "topic": "Float and Double: Mantissa, Exponent, Sign Bit"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Primitive Types & Memory Layout",
+    "topic": "Floating-Point Precision Loss in Currency Systems"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Primitive Types & Memory Layout",
+    "topic": "BigDecimal MathContext and RoundingMode Rules"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Primitive Types & Memory Layout",
+    "topic": "BigInteger Arbitrary Precision Integer Math"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Primitive Types & Memory Layout",
+    "topic": "Char Type: Unicode BMP vs Supplementary Planes"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Primitive Types & Memory Layout",
+    "topic": "Boolean Memory Representation on the JVM Stack"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Primitive Types & Memory Layout",
+    "topic": "Local, Instance, and Static Variable Scopes"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Primitive Types & Memory Layout",
+    "topic": "Variable Shadowing vs Variable Hiding Rules"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Type Conversion & Wrapper Classes",
+    "topic": "Default Values for Fields vs Uninitialized Locals"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Type Conversion & Wrapper Classes",
+    "topic": "Constant Folding of Compile-Time Constant Primitives"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Type Conversion & Wrapper Classes",
+    "topic": "Type Promotion Rules in Mixed Arithmetic Expressions"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Type Conversion & Wrapper Classes",
+    "topic": "Explicit Narrowing Conversions & Bit Truncation"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Type Conversion & Wrapper Classes",
+    "topic": "Character Arithmetic and ASCII Manipulations"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Type Conversion & Wrapper Classes",
+    "topic": "Wrapper Class Memory Footprint vs Primitives"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Type Conversion & Wrapper Classes",
+    "topic": "Autoboxing Performance Pitfalls in Loops"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Type Conversion & Wrapper Classes",
+    "topic": "IntegerCache Customization via JVM System Properties"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Type Conversion & Wrapper Classes",
+    "topic": "Double.NaN Comparisons and Special Value Equality"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Type Conversion & Wrapper Classes",
+    "topic": "Math.round, floor, and ceil Mathematical Invariants"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Bit-Level Manipulations & Performance",
+    "topic": "Unsigned Integer Math via Integer.compareUnsigned"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Bit-Level Manipulations & Performance",
+    "topic": "Hexadecimal and Binary Bitwise Masking Patterns"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Bit-Level Manipulations & Performance",
+    "topic": "Integer.bitCount and Hardware POPCNT Instructions"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Bit-Level Manipulations & Performance",
+    "topic": "Integer.numberOfLeadingZeros Branchless Algorithms"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Bit-Level Manipulations & Performance",
+    "topic": "Integer.parseInt vs valueOf Caching Differences"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Bit-Level Manipulations & Performance",
+    "topic": "Formatted String Output and Locale Formatting"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Bit-Level Manipulations & Performance",
+    "topic": "Currency and Date-Time Locale Parsers"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Bit-Level Manipulations & Performance",
+    "topic": "Compressed OOPs (Ordinary Object Pointers) Limits"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Bit-Level Manipulations & Performance",
+    "topic": "Object Header Layout: Mark Word and Klass Pointer"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Bit-Level Manipulations & Performance",
+    "topic": "Escape Analysis and Primitive Stack Allocation"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Modern Type Inference & Enums",
+    "topic": "Local Variable Type Inference (var) Golden Rules"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Modern Type Inference & Enums",
+    "topic": "Where var is Forbidden in Java Syntax"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Modern Type Inference & Enums",
+    "topic": "Var with Anonymous Classes and Intersections"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Modern Type Inference & Enums",
+    "topic": "Atomic Primitives: AtomicInteger and AtomicLong"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Modern Type Inference & Enums",
+    "topic": "Cache Coherence and CPU L1/L2/L3 Memory Visibility"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Modern Type Inference & Enums",
+    "topic": "Volatile Primitives: Ensuring JMM Happens-Before"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Modern Type Inference & Enums",
+    "topic": "ThreadLocalRandom vs Shared Random Contention"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Modern Type Inference & Enums",
+    "topic": "Enum Data Types as Type-Safe Named Constants"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Modern Type Inference & Enums",
+    "topic": "Enum Methods, Values Array Caching, Custom State"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Modern Type Inference & Enums",
+    "topic": "EnumSet and EnumMap Bitmask-Optimized Speed"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Advanced Types & Modern Java",
+    "topic": "Null Safety and Defensive Handling Practices"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Advanced Types & Modern Java",
+    "topic": "Primitive Streams: IntStream, LongStream, DoubleStream"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Advanced Types & Modern Java",
+    "topic": "IntSummaryStatistics for Rapid Data Aggregation"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Advanced Types & Modern Java",
+    "topic": "Type Erasure Impact on Custom Wrapper Types"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Advanced Types & Modern Java",
+    "topic": "Value-Based Classes & Project Valhalla Foundations"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Advanced Types & Modern Java",
+    "topic": "Bit Manipulation for Network Protocol Header Decoding"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Advanced Types & Modern Java",
+    "topic": "Fixed-Point Math vs Floating-Point in Embedded Systems"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Advanced Types & Modern Java",
+    "topic": "Byte Alignment and Memory Padding in 64-bit JVM"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Advanced Types & Modern Java",
+    "topic": "Defensive Immutability for Primitive Wrapper Records"
+  },
+  {
+    "course": "Variables and Data Types",
+    "courseId": 2,
+    "module": "Advanced Types & Modern Java",
+    "topic": "Best Practices for Robust Enterprise Data Types"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Fundamental & Logical Operators",
+    "topic": "Arithmetic Operators (+, -, *, /, %) and Modulo Math"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Fundamental & Logical Operators",
+    "topic": "Unary Increment / Decrement: Pre vs Post Evaluation"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Fundamental & Logical Operators",
+    "topic": "Relational Operators and Reference vs Value Equality"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Fundamental & Logical Operators",
+    "topic": "Logical Operators (&&, ||, !) vs Bitwise Operators"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Fundamental & Logical Operators",
+    "topic": "Short-Circuit Logic Guard Clauses & Performance"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Fundamental & Logical Operators",
+    "topic": "Ternary Operator Type Resolution and Null Traps"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Fundamental & Logical Operators",
+    "topic": "Compound Assignment Operators (+=, -=) Implicit Casts"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Fundamental & Logical Operators",
+    "topic": "Operator Precedence Matrix and Ambiguity Elimination"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Fundamental & Logical Operators",
+    "topic": "Instanceof Type Verification and Safe Downcasting"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Fundamental & Logical Operators",
+    "topic": "Pattern Matching for Instanceof in Java 16/17"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Bitwise & Shift Operations",
+    "topic": "Bitwise AND (&) Masking and Flag Testing"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Bitwise & Shift Operations",
+    "topic": "Bitwise OR (|) Flag Aggregation and Settings Combining"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Bitwise & Shift Operations",
+    "topic": "Bitwise XOR (^) Properties: Parity and Swapping"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Bitwise & Shift Operations",
+    "topic": "Bitwise Inversion (~) and Two's Complement Math"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Bitwise & Shift Operations",
+    "topic": "Signed Left Shift (<<) and Binary Multiplication"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Bitwise & Shift Operations",
+    "topic": "Signed Right Shift (>>) with Arithmetic Sign Retention"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Bitwise & Shift Operations",
+    "topic": "Unsigned Right Shift (>>>) Zero-Filling for Hashes"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Bitwise & Shift Operations",
+    "topic": "Extracting Lowest Set Bit via (n & -n)"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Bitwise & Shift Operations",
+    "topic": "Brian Kernighan's Set Bit Counting Algorithm"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Bitwise & Shift Operations",
+    "topic": "Bit Rotation via Integer.rotateLeft and rotateRight"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Branching & Modern Switch Syntax",
+    "topic": "Branch Prediction & CPU Branch Misprediction Penalty"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Branching & Modern Switch Syntax",
+    "topic": "If-Else Ladder Optimization & Frequency Ordering"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Branching & Modern Switch Syntax",
+    "topic": "Tableswitch vs Lookupswitch Bytecode Instructions"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Branching & Modern Switch Syntax",
+    "topic": "String in Switch: HashCode Calculation and Collision"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Branching & Modern Switch Syntax",
+    "topic": "Enum in Switch: Compiler-Generated Synthetic Maps"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Branching & Modern Switch Syntax",
+    "topic": "Switch Expressions with Arrow Syntax and Value Yield"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Branching & Modern Switch Syntax",
+    "topic": "Switch Pattern Matching with Type Guards & When Clauses"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Branching & Modern Switch Syntax",
+    "topic": "Exhaustive Switch Verification for Sealed Hierarchies"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Branching & Modern Switch Syntax",
+    "topic": "Switch with Null Case Handling in Java 17+"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Branching & Modern Switch Syntax",
+    "topic": "Eliminating Nested If Statements with Early Returns"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Looping Constructs & Bytecode Execution",
+    "topic": "For Loop Execution Model and Multiple Step Variables"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Looping Constructs & Bytecode Execution",
+    "topic": "While Loop Lifecycle and Sentinel Value Conditionals"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Looping Constructs & Bytecode Execution",
+    "topic": "Do-While Loop Semantics & Guaranteed First Run"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Looping Constructs & Bytecode Execution",
+    "topic": "Infinite Loops: for(;;) vs while(true) Bytecode Comparison"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Looping Constructs & Bytecode Execution",
+    "topic": "Labeled Breaks for Multi-Level Loop Termination"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Looping Constructs & Bytecode Execution",
+    "topic": "Labeled Continues for Targeted Nested Loop Iteration"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Looping Constructs & Bytecode Execution",
+    "topic": "Enhanced For-Loop Bytecode Compilation Mechanics"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Looping Constructs & Bytecode Execution",
+    "topic": "Loop Invariant Code Motion (LICM) by HotSpot JIT"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Looping Constructs & Bytecode Execution",
+    "topic": "Loop Unrolling Optimization for High-Throughput Paths"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Looping Constructs & Bytecode Execution",
+    "topic": "Loop Vectorization and SIMD Hardware Acceleration"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Algorithmic Flow & Production Standards",
+    "topic": "Fast-Path vs Slow-Path Branching Architecture"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Algorithmic Flow & Production Standards",
+    "topic": "Finite State Machine Implementation via Table Dispatch"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Algorithmic Flow & Production Standards",
+    "topic": "Floating-Point Comparisons with Double.compare"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Algorithmic Flow & Production Standards",
+    "topic": "Bitmask-Based Subset Generation (Power Set Algorithm)"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Algorithmic Flow & Production Standards",
+    "topic": "Circular Buffer Indexing with Modulo Operations"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Algorithmic Flow & Production Standards",
+    "topic": "Loop Peeling and Boundary Condition Optimization"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Algorithmic Flow & Production Standards",
+    "topic": "Return Statements Inside Control Blocks vs Finally"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Algorithmic Flow & Production Standards",
+    "topic": "Defensive Input Validation and Precondition Checks"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Algorithmic Flow & Production Standards",
+    "topic": "Avoiding Deep Nested Branching with Guard Clauses"
+  },
+  {
+    "course": "Operators and Control Statements",
+    "courseId": 3,
+    "module": "Algorithmic Flow & Production Standards",
+    "topic": "Production Best Practices for Clean Flow Control"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Array Internals & Algorithms",
+    "topic": "Array Memory Allocation: Contiguous Memory & Cache Lines"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Array Internals & Algorithms",
+    "topic": "Array Length Immutability and Reallocation Costs"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Array Internals & Algorithms",
+    "topic": "System.arraycopy Native Memory Copy Optimization"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Array Internals & Algorithms",
+    "topic": "Arrays.copyOf vs Clone Performance Benchmarks"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Array Internals & Algorithms",
+    "topic": "Arrays.binarySearch Implementation & Negative Insertion"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Array Internals & Algorithms",
+    "topic": "Arrays.parallelSort ForkJoinPool Parallel Thresholds"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Array Internals & Algorithms",
+    "topic": "ArrayStoreException and Covariant Array Hazards"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Array Internals & Algorithms",
+    "topic": "Primitive Arrays vs Object Arrays Memory Layout"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Array Internals & Algorithms",
+    "topic": "Multidimensional Arrays: Matrix Row-Major Access"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Array Internals & Algorithms",
+    "topic": "Jagged Arrays for Memory-Optimized Sparse Matrices"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Pool & Memory Optimizations",
+    "topic": "String Constant Pool: PermGen to Heap Migration"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Pool & Memory Optimizations",
+    "topic": "String Reference Equality (==) vs Logical Equality"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Pool & Memory Optimizations",
+    "topic": "String Immutability: Security and Caching Guarantees"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Pool & Memory Optimizations",
+    "topic": "Compact Strings in Java 9+: LATIN-1 vs UTF-16 Byte Arrays"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Pool & Memory Optimizations",
+    "topic": "String.intern() Native StringTable Architecture"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Pool & Memory Optimizations",
+    "topic": "G1GC String Deduplication (-XX:+UseStringDeduplication)"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Pool & Memory Optimizations",
+    "topic": "Substrings Memory Fix: Eliminating Shared Backing Arrays"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Pool & Memory Optimizations",
+    "topic": "CharSequence Interface and Polymorphic Operations"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Pool & Memory Optimizations",
+    "topic": "Text Blocks in Java 15+: Strip Indent and Formatting"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Pool & Memory Optimizations",
+    "topic": "String Alignment and Memory Footprint in 64-bit JVM"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Mutation & Builder Mechanics",
+    "topic": "StringBuilder vs StringBuffer Synchronization Overhead"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Mutation & Builder Mechanics",
+    "topic": "StringBuilder Capacity Allocation and 2N+2 Growth"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Mutation & Builder Mechanics",
+    "topic": "invokedynamic in Modern Java String Concatenation"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Mutation & Builder Mechanics",
+    "topic": "StringJoiner and String.join Delimited Formatting"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Mutation & Builder Mechanics",
+    "topic": "StringTokenizer vs Scanner vs String.split Benchmarks"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Mutation & Builder Mechanics",
+    "topic": "Regex Pattern Compilation and Backtracking Prevention"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Mutation & Builder Mechanics",
+    "topic": "Pattern.compile.splitAsStream for Lazy Splitting"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Mutation & Builder Mechanics",
+    "topic": "HexFormat API in Java 17 for Hexadecimal Conversion"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Mutation & Builder Mechanics",
+    "topic": "Base64 Encoding & Decoding RFC 4648 Fast Engine"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "String Mutation & Builder Mechanics",
+    "topic": "Custom High-Performance Zero-Allocation String Parsing"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Algorithmic String Matching",
+    "topic": "KMP (Knuth-Morris-Pratt) Prefix Table Algorithm"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Algorithmic String Matching",
+    "topic": "Rabin-Karp Rolling Hash Substring Search Algorithm"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Algorithmic String Matching",
+    "topic": "Boyer-Moore Bad Character Rule for Fast Searching"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Algorithmic String Matching",
+    "topic": "Trie (Prefix Tree) Construction and Word Lookups"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Algorithmic String Matching",
+    "topic": "Aho-Corasick Multi-Pattern Search State Machine"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Algorithmic String Matching",
+    "topic": "Longest Common Subsequence (LCS) Dynamic Programming"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Algorithmic String Matching",
+    "topic": "Levenshtein Distance Algorithm for String Similarity"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Algorithmic String Matching",
+    "topic": "Longest Substring Without Repeating Characters Window"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Algorithmic String Matching",
+    "topic": "Anagram Detection via Character Frequency Counters"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Algorithmic String Matching",
+    "topic": "Palindrome Verification with Two-Pointer Invariance"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Enterprise Encoding & Zero-Copy",
+    "topic": "UTF-8, UTF-16, ISO-8859-1 Charset Conversions"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Enterprise Encoding & Zero-Copy",
+    "topic": "MalformedInputException in CharsetDecoder Pipelines"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Enterprise Encoding & Zero-Copy",
+    "topic": "Zero-Copy String Processing Using ByteBuffer Views"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Enterprise Encoding & Zero-Copy",
+    "topic": "Thread-Safe Tokenization Across Concurrent Workers"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Enterprise Encoding & Zero-Copy",
+    "topic": "String Masking for Sensitive Data and GDPR Compliance"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Enterprise Encoding & Zero-Copy",
+    "topic": "Fast Int-to-String Conversion Without Heap Allocations"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Enterprise Encoding & Zero-Copy",
+    "topic": "Off-Heap String Storage for Terabyte-Scale Caches"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Enterprise Encoding & Zero-Copy",
+    "topic": "Benchmarking String Operations Using JMH"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Enterprise Encoding & Zero-Copy",
+    "topic": "Defensive String Sanitization Against Injection Attacks"
+  },
+  {
+    "course": "Arrays and Strings",
+    "courseId": 4,
+    "module": "Enterprise Encoding & Zero-Copy",
+    "topic": "Production Best Practices for High-Throughput Strings"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Method Mechanics & Stack Frames",
+    "topic": "Method Declaration Anatomy: Modifiers, Return, Signature"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Method Mechanics & Stack Frames",
+    "topic": "Java Pass-By-Value: Reference Passing Demystified"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Method Mechanics & Stack Frames",
+    "topic": "Method Overloading Resolution & Widening vs Autoboxing"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Method Mechanics & Stack Frames",
+    "topic": "Variable Arguments (Varargs) Compiler Transformation"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Method Mechanics & Stack Frames",
+    "topic": "Varargs Heap Allocation Overhead in Hot Execution Loops"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Method Mechanics & Stack Frames",
+    "topic": "Stack Frames: Local Variables, Operands, and Frame Data"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Method Mechanics & Stack Frames",
+    "topic": "StackOverflowError: Root Causes and -Xss Stack Tuning"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Method Mechanics & Stack Frames",
+    "topic": "Method Inlining Optimization by HotSpot JIT Compiler"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Method Mechanics & Stack Frames",
+    "topic": "Virtual Method Dispatch: invokevirtual vs invokestatic"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Method Mechanics & Stack Frames",
+    "topic": "Method Handles (java.lang.invoke) Dynamic Dispatch"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Recursion Fundamentals & Trees",
+    "topic": "Recursive Functions: Base Case and Convergence Proof"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Recursion Fundamentals & Trees",
+    "topic": "Direct vs Indirect vs Mutual Recursion Topologies"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Recursion Fundamentals & Trees",
+    "topic": "Linear Recursion vs Tree Recursion Space Complexity"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Recursion Fundamentals & Trees",
+    "topic": "Fibonacci: Exponential Tree vs Memoization vs Iterative"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Recursion Fundamentals & Trees",
+    "topic": "Top-Down Dynamic Programming via Memoization Tables"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Recursion Fundamentals & Trees",
+    "topic": "Tail-Call Recursion & Why HotSpot Lacks Native TCO"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Recursion Fundamentals & Trees",
+    "topic": "Manual Stack Unrolling Using Explicit Deque Structures"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Recursion Fundamentals & Trees",
+    "topic": "Divide and Conquer: MergeSort Recursive Partitioning"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Recursion Fundamentals & Trees",
+    "topic": "QuickSort Recursive Pivot Partitioning & Stack Limits"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Recursion Fundamentals & Trees",
+    "topic": "Binary Search: Recursive vs Iterative Comparison"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Advanced Recursive Problem Solving",
+    "topic": "Tower of Hanoi Recursive Mathematical State Machine"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Advanced Recursive Problem Solving",
+    "topic": "Depth-First Search (DFS) on Binary Trees: Pre, In, Post"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Advanced Recursive Problem Solving",
+    "topic": "Morris In-Order Traversal (O(1) Space Non-Recursive)"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Advanced Recursive Problem Solving",
+    "topic": "Graph Traversal with Recursive DFS & Visited Tracking"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Advanced Recursive Problem Solving",
+    "topic": "Backtracking Paradigm: State Exploration & Reversal"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Advanced Recursive Problem Solving",
+    "topic": "N-Queens Problem with Bitmask Diagonal Pruning"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Advanced Recursive Problem Solving",
+    "topic": "Sudoku Solver: Backtracking with Constraint Checks"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Advanced Recursive Problem Solving",
+    "topic": "Subset Sum: Recursive Search with Branch Pruning"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Advanced Recursive Problem Solving",
+    "topic": "Permutations Generation: Recursive Swapping In-Place"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Advanced Recursive Problem Solving",
+    "topic": "Combinations Generation: Controlled Index Exploration"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Parsing & Complex Structures",
+    "topic": "Word Search on 2D Matrix: Recursive DFS with Boundary Guards"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Parsing & Complex Structures",
+    "topic": "Flood Fill Algorithm: Connected Component Traversal"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Parsing & Complex Structures",
+    "topic": "Recursive Descent Parsing for Math Expressions"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Parsing & Complex Structures",
+    "topic": "JSON/XML Tokenizer and AST Node Recursive Traversal"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Parsing & Complex Structures",
+    "topic": "Recursive Directory Scanning vs Files.walk Streams"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Parsing & Complex Structures",
+    "topic": "Dead Code Elimination in Pure Recursive Methods"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Parsing & Complex Structures",
+    "topic": "LambdaMetafactory and Method References Bytecode"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Parsing & Complex Structures",
+    "topic": "Pure Functions and Functional Design in Java Methods"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Parsing & Complex Structures",
+    "topic": "Objects.requireNonNull Fail-Fast Precondition Contracts"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Parsing & Complex Structures",
+    "topic": "Fluent Method Chaining and Builder Return Patterns"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Optimization & Profiling",
+    "topic": "Static Factory Methods vs Constructors (Effective Java)"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Optimization & Profiling",
+    "topic": "Trampolining Technique: Simulating TCO in Modern Java"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Optimization & Profiling",
+    "topic": "Recursive Stream Generation with Stream.iterate"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Optimization & Profiling",
+    "topic": "Profiling Call Stacks with VisualVM and JProfiler"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Optimization & Profiling",
+    "topic": "Preventing Stack Overflow in Deep Hierarchy Traversals"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Optimization & Profiling",
+    "topic": "JMH Benchmarking for Method Inlining Thresholds"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Optimization & Profiling",
+    "topic": "Defensive Parameter Validation and Boundary Guarantees"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Optimization & Profiling",
+    "topic": "Exception Propagation Out of Deep Recursive Calls"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Optimization & Profiling",
+    "topic": "Side Effect Isolation and Thread Safety in Methods"
+  },
+  {
+    "course": "Methods and Recursion",
+    "courseId": 5,
+    "module": "Optimization & Profiling",
+    "topic": "Production Best Practices for Java Method Architecture"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "The 4 Pillars of OOP",
+    "topic": "Abstraction: Separating Contracts from Implementations"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "The 4 Pillars of OOP",
+    "topic": "Encapsulation: Data Hiding, Invariants, and Mutators"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "The 4 Pillars of OOP",
+    "topic": "Inheritance: IS-A Relationships & Fragile Base Classes"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "The 4 Pillars of OOP",
+    "topic": "Polymorphism: Dynamic Dispatch and Behavioral Subtyping"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "The 4 Pillars of OOP",
+    "topic": "Association, Aggregation, and Composition in UML"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "The 4 Pillars of OOP",
+    "topic": "Composition over Inheritance: Why HAS-A Trumps IS-A"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "The 4 Pillars of OOP",
+    "topic": "Single Responsibility Principle (SRP) in Class Design"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "The 4 Pillars of OOP",
+    "topic": "Open/Closed Principle (OCP) via Extensible Abstractions"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "The 4 Pillars of OOP",
+    "topic": "Liskov Substitution Principle (LSP) Behavioral Guarantees"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "The 4 Pillars of OOP",
+    "topic": "Interface Segregation Principle (ISP) Role Interfaces"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "SOLID & Clean Architecture",
+    "topic": "Dependency Inversion Principle (DIP) & Inverting Control"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "SOLID & Clean Architecture",
+    "topic": "Inversion of Control (IoC) and Dependency Injection (DI)"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "SOLID & Clean Architecture",
+    "topic": "Domain-Driven Design (DDD): Entities vs Value Objects"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "SOLID & Clean Architecture",
+    "topic": "Immutable Objects: Thread Safety and Construction Rules"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "SOLID & Clean Architecture",
+    "topic": "Defensive Copying in Constructors and Getters"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "SOLID & Clean Architecture",
+    "topic": "Creational Pattern: Singleton (Bill Pugh & Enum Models)"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "SOLID & Clean Architecture",
+    "topic": "Creational Pattern: Factory Method for Instantiation"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "SOLID & Clean Architecture",
+    "topic": "Creational Pattern: Abstract Factory Product Families"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "SOLID & Clean Architecture",
+    "topic": "Creational Pattern: Builder for Complex Configurations"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "SOLID & Clean Architecture",
+    "topic": "Creational Pattern: Prototype for High-Cost Cloning"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Structural Design Patterns",
+    "topic": "Structural Pattern: Adapter for Incompatible Interfaces"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Structural Design Patterns",
+    "topic": "Structural Pattern: Bridge for Abstraction Independence"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Structural Design Patterns",
+    "topic": "Structural Pattern: Composite for Tree Hierarchies"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Structural Design Patterns",
+    "topic": "Structural Pattern: Decorator for Dynamic Enhancement"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Structural Design Patterns",
+    "topic": "Structural Pattern: Facade for Simplified Subsystems"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Structural Design Patterns",
+    "topic": "Structural Pattern: Flyweight for Massive Memory Savings"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Structural Design Patterns",
+    "topic": "Structural Pattern: Proxy for Lazy Loading & Security"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Structural Design Patterns",
+    "topic": "Law of Demeter (Principle of Least Knowledge)"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Structural Design Patterns",
+    "topic": "Cohesion vs Coupling Metrics in Large Enterprise Systems"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Structural Design Patterns",
+    "topic": "Refactoring Legacy Procedural Code into Clean OOP"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Behavioral Design Patterns",
+    "topic": "Behavioral Pattern: Strategy for Pluggable Algorithms"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Behavioral Design Patterns",
+    "topic": "Behavioral Pattern: Observer for Event-Driven Systems"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Behavioral Design Patterns",
+    "topic": "Behavioral Pattern: Command for Action Encapsulation"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Behavioral Design Patterns",
+    "topic": "Behavioral Pattern: State for Dynamic FSM Transitions"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Behavioral Design Patterns",
+    "topic": "Behavioral Pattern: Template Method for Invariant Skeletons"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Behavioral Design Patterns",
+    "topic": "Behavioral Pattern: Iterator for Uniform Sequence Access"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Behavioral Design Patterns",
+    "topic": "Behavioral Pattern: Mediator for Component Decoupling"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Behavioral Design Patterns",
+    "topic": "Behavioral Pattern: Memento for State Rollback & Snapshots"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Behavioral Design Patterns",
+    "topic": "Behavioral Pattern: Visitor for Double Dispatch and ASTs"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Behavioral Design Patterns",
+    "topic": "Behavioral Pattern: Chain of Responsibility Middleware"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Enterprise OOP & Domain Modeling",
+    "topic": "Anemic Domain Model vs Rich Domain Model in Java"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Enterprise OOP & Domain Modeling",
+    "topic": "Overengineering Traps: Knowing When Patterns are Overkill"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Enterprise OOP & Domain Modeling",
+    "topic": "Object Identity vs Equality (.equals() & .hashCode())"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Enterprise OOP & Domain Modeling",
+    "topic": "Comparable vs Comparator for Natural and Custom Ordering"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Enterprise OOP & Domain Modeling",
+    "topic": "Copy Constructors vs Cloneable Pitfalls"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Enterprise OOP & Domain Modeling",
+    "topic": "Modeling Multi-Tenant SaaS Systems with OOP Principles"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Enterprise OOP & Domain Modeling",
+    "topic": "Error-Resilient Domain Modeling in Java 17"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Enterprise OOP & Domain Modeling",
+    "topic": "Case Study: E-Commerce Payment Processing Engine"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Enterprise OOP & Domain Modeling",
+    "topic": "Designing Testable Clean Object-Oriented Codebases"
+  },
+  {
+    "course": "Object-Oriented Programming",
+    "courseId": 6,
+    "module": "Enterprise OOP & Domain Modeling",
+    "topic": "Production Best Practices for Java Microservice OOP"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Class Structure & Instantiation",
+    "topic": "Class Declaration Syntax, Modifiers, and .class Files"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Class Structure & Instantiation",
+    "topic": "Object Instantiation with new: Bytecode Allocation Steps"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Class Structure & Instantiation",
+    "topic": "Instance Variables vs Static Class Variables Memory"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Class Structure & Instantiation",
+    "topic": "Default, Parameterized, and Overloaded Constructors"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Class Structure & Instantiation",
+    "topic": "Constructor Chaining via this(...) and super(...) Calls"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Class Structure & Instantiation",
+    "topic": "Instance Initialization Blocks (IIB) Execution Order"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Class Structure & Instantiation",
+    "topic": "Static Initialization Blocks (SIB) Class Loading Triggers"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Class Structure & Instantiation",
+    "topic": "Multiple Static Initializers and Deterministic Order"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Class Structure & Instantiation",
+    "topic": "Object Destruction & Garbage Collection Lifecycle Stages"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Class Structure & Instantiation",
+    "topic": "The this Keyword: Disambiguation, Chaining, and Passing"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Nested Classes & Memory Leak Prevention",
+    "topic": "Static Nested Classes vs Non-Static Inner Member Classes"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Nested Classes & Memory Leak Prevention",
+    "topic": "Local Inner Classes Inside Methods & Variable Capture"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Nested Classes & Memory Leak Prevention",
+    "topic": "Anonymous Inner Classes: Single-Use Implementations"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Nested Classes & Memory Leak Prevention",
+    "topic": "Hidden Outer Class Reference Leaks in Non-Static Classes"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Nested Classes & Memory Leak Prevention",
+    "topic": "Garbage Collection Roots: Stack Frames, Statics, JNI"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Nested Classes & Memory Leak Prevention",
+    "topic": "Object Header Layout: 64-bit Mark Word & Klass Pointer"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Nested Classes & Memory Leak Prevention",
+    "topic": "Memory Alignment Padding to 8-Byte Boundaries in 64-bit"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Nested Classes & Memory Leak Prevention",
+    "topic": "Java Object Layout (JOL) Tool for Memory Inspection"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Nested Classes & Memory Leak Prevention",
+    "topic": "Record Classes in Java 16/17: Canonical Constructors"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Nested Classes & Memory Leak Prevention",
+    "topic": "Compact Constructors in Records for Data Validation"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Immutability & Sealed Types",
+    "topic": "Records Immutability: Auto-Generated equals and Accessors"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Immutability & Sealed Types",
+    "topic": "Local Records for Intermediate Processing in Methods"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Immutability & Sealed Types",
+    "topic": "Sealed Classes: permitted Subclasses & Type Constraints"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Immutability & Sealed Types",
+    "topic": "Final Classes: Preventing Extension for Security"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Immutability & Sealed Types",
+    "topic": "Final Methods: Preventing Override and Enabling Inlining"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Immutability & Sealed Types",
+    "topic": "Final Fields: JMM Thread-Safety Guarantees"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Immutability & Sealed Types",
+    "topic": "Blank Final Variables & Definite Assignment Rules"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Immutability & Sealed Types",
+    "topic": "Compile-Time Constant Inlining Pitfalls with static final"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Immutability & Sealed Types",
+    "topic": "Thread-Safe Singleton via Double-Checked Locking"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Immutability & Sealed Types",
+    "topic": "Bill Pugh Singleton Holder Pattern Using ClassLoader"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Object Contracts & Equality",
+    "topic": "Enum Singleton: Reflection and Serialization Immunity"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Object Contracts & Equality",
+    "topic": "Builder Pattern for Objects with Many Optional Fields"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Object Contracts & Equality",
+    "topic": "Value Objects Pattern: Structural vs Identity Equality"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Object Contracts & Equality",
+    "topic": "java.lang.Object Base Class Core Contract Overview"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Object Contracts & Equality",
+    "topic": "Overriding toString() for Clean Diagnostic Logging"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Object Contracts & Equality",
+    "topic": "Overriding equals(): Reflexive, Symmetric, Transitive Rules"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Object Contracts & Equality",
+    "topic": "Overriding hashCode() with Prime 31 Multipliers"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Object Contracts & Equality",
+    "topic": "Equals and HashCode Contract Violations in HashMaps"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Object Contracts & Equality",
+    "topic": "Comparable<T> Implementation for Natural Sorting Order"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Object Contracts & Equality",
+    "topic": "Copy Constructors as Superior Alternatives to Cloneable"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Reflection & Advanced Lifecycle",
+    "topic": "Defensive Copying of Mutable Fields Inside Constructors"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Reflection & Advanced Lifecycle",
+    "topic": "Static Factory Methods vs Public Constructor Advantages"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Reflection & Advanced Lifecycle",
+    "topic": "Flyweight Object Pooling: Reusing Common Object State"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Reflection & Advanced Lifecycle",
+    "topic": "Object Lifecycle States from Allocation to Final Collection"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Reflection & Advanced Lifecycle",
+    "topic": "ClassLoader Memory Leaks and Class Unloading Failures"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Reflection & Advanced Lifecycle",
+    "topic": "Method Handles and VarHandles for High-Speed Field Access"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Reflection & Advanced Lifecycle",
+    "topic": "Reflection API: Inspecting Classes, Methods, and Fields"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Reflection & Advanced Lifecycle",
+    "topic": "Reflection Performance Overhead & Modern JVM Inlining"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Reflection & Advanced Lifecycle",
+    "topic": "Deep Object Cloning via Jackson JSON and Byte Streams"
+  },
+  {
+    "course": "Classes and Objects",
+    "courseId": 7,
+    "module": "Reflection & Advanced Lifecycle",
+    "topic": "Best Practices for Robust Class Architecture in Java"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Inheritance Fundamentals",
+    "topic": "Single Class Inheritance: Extends Keyword & java.lang.Object"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Inheritance Fundamentals",
+    "topic": "The Deadly Diamond of Death: Why Java Prohibits Multi-Class Extends"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Inheritance Fundamentals",
+    "topic": "The super Keyword: Accessing Superclass State and Methods"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Inheritance Fundamentals",
+    "topic": "Constructor Chaining Hierarchy from Base Object Downwards"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Inheritance Fundamentals",
+    "topic": "Method Overriding Contract: Rules for Types and Modifiers"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Inheritance Fundamentals",
+    "topic": "@Override Annotation: Compiler Verification & Safety"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Inheritance Fundamentals",
+    "topic": "Covariant Return Types in Overridden Subclass Methods"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Inheritance Fundamentals",
+    "topic": "Exception Handling Rules in Overriding (Narrowing Only)"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Inheritance Fundamentals",
+    "topic": "Access Modifier Rules in Overriding: Broadening Visibility"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Inheritance Fundamentals",
+    "topic": "Method Hiding: Static Methods Cannot Be Overridden"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Type Casting & Polymorphic Resolution",
+    "topic": "Field Hiding: Superclass Variables Hidden by Subclass Names"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Type Casting & Polymorphic Resolution",
+    "topic": "Compile-Time Reference Type vs Runtime Object Type"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Type Casting & Polymorphic Resolution",
+    "topic": "Upcasting: Implicit Safe Widening to Base Interfaces"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Type Casting & Polymorphic Resolution",
+    "topic": "Downcasting: Explicit Narrowing & ClassCastException Guards"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Type Casting & Polymorphic Resolution",
+    "topic": "The instanceof Operator for Safe Type Introspection"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Type Casting & Polymorphic Resolution",
+    "topic": "Pattern Matching for Instanceof in Modern Java 16+"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Type Casting & Polymorphic Resolution",
+    "topic": "Polymorphic Consumer Methods Writing Flexible APIs"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Type Casting & Polymorphic Resolution",
+    "topic": "Virtual Method Dispatch: How the JVM Resolves Calls"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Type Casting & Polymorphic Resolution",
+    "topic": "The vtable (Virtual Method Table) in HotSpot Architecture"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Type Casting & Polymorphic Resolution",
+    "topic": "Monomorphic vs Bimorphic vs Megamorphic Inlining by JIT"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Abstract Classes & Sealed Hierarchies",
+    "topic": "Inline Caching: Optimizing Polymorphic Callsites"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Abstract Classes & Sealed Hierarchies",
+    "topic": "Abstract Classes: Incomplete Contracts with Concrete State"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Abstract Classes & Sealed Hierarchies",
+    "topic": "Abstract Class Constructors: Initializing Shared Super State"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Abstract Classes & Sealed Hierarchies",
+    "topic": "Abstract Methods: Enforcing Behavioral Subclass Rules"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Abstract Classes & Sealed Hierarchies",
+    "topic": "Sealed Classes in Java 17: Constraining Permitted Subclasses"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Abstract Classes & Sealed Hierarchies",
+    "topic": "Sealed Modifiers: final, sealed, and non-sealed Children"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Abstract Classes & Sealed Hierarchies",
+    "topic": "Exhaustive Pattern Matching with Sealed Hierarchies"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Abstract Classes & Sealed Hierarchies",
+    "topic": "The Fragile Base Class Problem: How Base Edits Break Children"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Abstract Classes & Sealed Hierarchies",
+    "topic": "Inheritance Breaking Encapsulation: Stack Counting Example"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Abstract Classes & Sealed Hierarchies",
+    "topic": "Composition over Inheritance: The Wrapper Pattern"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Design Patterns Using Polymorphism",
+    "topic": "Decorator Pattern: Dynamic Polymorphic Functionality"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Design Patterns Using Polymorphism",
+    "topic": "Template Method Pattern: Concrete Hooks in Abstract Bases"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Design Patterns Using Polymorphism",
+    "topic": "Factory Method Pattern: Subclass Instantiation Delegation"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Design Patterns Using Polymorphism",
+    "topic": "Polymorphic Collections: Heterogeneous Subtype Storage"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Design Patterns Using Polymorphism",
+    "topic": "Double Dispatch and the Visitor Pattern via Polymorphism"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Design Patterns Using Polymorphism",
+    "topic": "Interface Default Methods and Diamond Conflict Resolution"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Design Patterns Using Polymorphism",
+    "topic": "Resolving Default Method Clashes: Interface.super.method()"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Design Patterns Using Polymorphism",
+    "topic": "Covariant Parameter Types: Why Parameters Remain Invariant"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Design Patterns Using Polymorphism",
+    "topic": "Reference Polymorphism vs C++ Value Slicing Differences"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "Design Patterns Using Polymorphism",
+    "topic": "invokevirtual vs invokeinterface Bytecode Dispatch Rules"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "JVM Dispatch Mechanics & Standards",
+    "topic": "itable (Interface Table) Structure in HotSpot Virtual Machine"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "JVM Dispatch Mechanics & Standards",
+    "topic": "Preventing Subclassing: final Classes vs Private Constructors"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "JVM Dispatch Mechanics & Standards",
+    "topic": "Designing for Inheritance or Forbidding It (Effective Java)"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "JVM Dispatch Mechanics & Standards",
+    "topic": "Subclassing and the equals() Contract: Symmetry Hazards"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "JVM Dispatch Mechanics & Standards",
+    "topic": "CanEqual Pattern for Safe Inheritance Equality Tests"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "JVM Dispatch Mechanics & Standards",
+    "topic": "Polymorphic Serialization Risks & Class Whitelisting"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "JVM Dispatch Mechanics & Standards",
+    "topic": "Polymorphic JSON Handling via Jackson @JsonTypeInfo"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "JVM Dispatch Mechanics & Standards",
+    "topic": "Benchmarking Virtual Dispatch Penalties with JMH"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "JVM Dispatch Mechanics & Standards",
+    "topic": "Enterprise Case Study: Hierarchical Domain Modeling"
+  },
+  {
+    "course": "Inheritance and Polymorphism",
+    "courseId": 8,
+    "module": "JVM Dispatch Mechanics & Standards",
+    "topic": "Best Practices for Robust Inheritance Hierarchies"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation & Access Modifiers",
+    "topic": "The Philosophy of Abstraction in System Complexity Management"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation & Access Modifiers",
+    "topic": "Levels of Abstraction: Machine Code to Enterprise Services"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation & Access Modifiers",
+    "topic": "Encapsulation as a Core Security & Reliability Shield"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation & Access Modifiers",
+    "topic": "Access Modifiers Matrix: private, default, protected, public"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation & Access Modifiers",
+    "topic": "Package-Private Scope as the Ideal Subsystem Boundary"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation & Access Modifiers",
+    "topic": "Protected Scope Nuances: Package Mates vs Foreign Subclasses"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation & Access Modifiers",
+    "topic": "Information Hiding: Why Public Fields Break Systems"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation & Access Modifiers",
+    "topic": "Getters and Setters: When They Violate True Object Design"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation & Access Modifiers",
+    "topic": "Tell, Don't Ask: Prioritizing Behavioral Methods over Getters"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation & Access Modifiers",
+    "topic": "Class Invariants: Enforcing Consistency in State Mutators"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Defensive Copying & Immutability",
+    "topic": "Defensive Copying in Constructors Against Reference Mutation"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Defensive Copying & Immutability",
+    "topic": "Defensive Copying in Getters: Returning Unmodifiable Views"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Defensive Copying & Immutability",
+    "topic": "Collections.unmodifiableList vs List.copyOf Immutability"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Defensive Copying & Immutability",
+    "topic": "Creating 100% Immutable Classes in Modern Java 17"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Defensive Copying & Immutability",
+    "topic": "Immutable Objects in Multi-Threaded Systems: Zero Lock Need"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Defensive Copying & Immutability",
+    "topic": "Value Objects: State-Based Equality and Immutability"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Defensive Copying & Immutability",
+    "topic": "Record Classes: Built-In Encapsulation and Data Carrier Rules"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Defensive Copying & Immutability",
+    "topic": "Compact Constructors in Records for Data Validation"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Defensive Copying & Immutability",
+    "topic": "Abstract Classes vs Interfaces: Deciding Between Them"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Defensive Copying & Immutability",
+    "topic": "Abstract Classes for Code Reuse Across Closely Related Types"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Module Boundaries & JPMS",
+    "topic": "Abstract Classes with Protected Helper Methods for Children"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Module Boundaries & JPMS",
+    "topic": "Preventing Utility Class Instantiation with Private Inits"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Module Boundaries & JPMS",
+    "topic": "Interface-Based Encapsulation: Public Interfaces, Hidden Impls"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Module Boundaries & JPMS",
+    "topic": "Factory Methods Returning Private Static Implementations"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Module Boundaries & JPMS",
+    "topic": "Package Organization by Feature vs Organization by Layer"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Module Boundaries & JPMS",
+    "topic": "Package-Private Encapsulation for Domain Submodules"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Module Boundaries & JPMS",
+    "topic": "Java 9+ Modules (JPMS) Strong Encapsulation Directives"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Module Boundaries & JPMS",
+    "topic": "Deep Reflection Blocks in JDK 17: IllegalAccessException"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Module Boundaries & JPMS",
+    "topic": "The --add-opens and --add-exports Flags in Enterprise Deployments"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Module Boundaries & JPMS",
+    "topic": "Service Provider Interface (SPI) with java.util.ServiceLoader"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation in Design Patterns",
+    "topic": "Encapsulating State in Finite State Machines (State Pattern)"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation in Design Patterns",
+    "topic": "Encapsulating Algorithms in Swappable Strategies (Strategy)"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation in Design Patterns",
+    "topic": "Encapsulating Creation: Factory Method & Abstract Factory"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation in Design Patterns",
+    "topic": "Encapsulating Subsystem Complexity with the Facade Pattern"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation in Design Patterns",
+    "topic": "Encapsulating External Systems with the Adapter Pattern"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation in Design Patterns",
+    "topic": "Proxy Pattern for Encapsulated Lazy Loading & Security"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation in Design Patterns",
+    "topic": "Anemic Domain Model: Why Getter-Only Entities Hurt Logic"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation in Design Patterns",
+    "topic": "Rich Domain Model: Embedding Rules Inside Domain Entities"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation in Design Patterns",
+    "topic": "Jakarta Bean Validation (@NotNull, @Size) Domain Checking"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Encapsulation in Design Patterns",
+    "topic": "Encapsulating Database Calls Using the Repository Pattern"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Enterprise Isolation & Production Practices",
+    "topic": "Encapsulating External HTTP Calls Using Client Gateways"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Enterprise Isolation & Production Practices",
+    "topic": "Encapsulating Async Operations with CompletableFuture"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Enterprise Isolation & Production Practices",
+    "topic": "Exception Encapsulation: Low-Level to Domain Translation"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Enterprise Isolation & Production Practices",
+    "topic": "Preventing Leaky Abstractions in Microservice Topologies"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Enterprise Isolation & Production Practices",
+    "topic": "Testing Encapsulated Code: Testing Public APIs vs Private Fields"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Enterprise Isolation & Production Practices",
+    "topic": "Why Reflection-Based Testing of Private State is Fragile"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Enterprise Isolation & Production Practices",
+    "topic": "Encapsulating Concurrency: Guarding State with Locks"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Enterprise Isolation & Production Practices",
+    "topic": "Monitor Pattern & Synchronized Blocks for State Safety"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Enterprise Isolation & Production Practices",
+    "topic": "Case Study: High-Security Banking Ledger Encapsulation"
+  },
+  {
+    "course": "Abstraction and Encapsulation",
+    "courseId": 9,
+    "module": "Enterprise Isolation & Production Practices",
+    "topic": "Best Practices for Robust Enterprise Abstraction"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Interface Contracts & Evolution",
+    "topic": "Interface Syntax and Abstract Method Declarations in Java"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Interface Contracts & Evolution",
+    "topic": "Implicit Modifiers: public abstract Methods & static final Vars"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Interface Contracts & Evolution",
+    "topic": "Implementing Multiple Interfaces to Combine Behaviors"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Interface Contracts & Evolution",
+    "topic": "Interface Inheritance: Interfaces Extending Multiple Interfaces"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Interface Contracts & Evolution",
+    "topic": "Java 8 Default Methods: Evolving Interfaces Without Breaking Code"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Interface Contracts & Evolution",
+    "topic": "Default Method Conflict Rules: Class Wins & Sub-Interface Wins"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Interface Contracts & Evolution",
+    "topic": "Resolving Diamond Conflicts: Interface.super.method() Syntax"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Interface Contracts & Evolution",
+    "topic": "Java 8 Static Methods in Interfaces: Contract Utilities"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Interface Contracts & Evolution",
+    "topic": "Java 9 Private Methods in Interfaces for Logic De-Duplication"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Interface Contracts & Evolution",
+    "topic": "Java 9 Private Static Methods in Interfaces for Helpers"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Functional & Marker Interfaces",
+    "topic": "Functional Interfaces and the @FunctionalInterface Annotation"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Functional & Marker Interfaces",
+    "topic": "Single Abstract Method (SAM) Contract for Lambdas"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Functional & Marker Interfaces",
+    "topic": "Marker Interfaces: Serializable, Cloneable & Modern Annotations"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Functional & Marker Interfaces",
+    "topic": "Constant Interface Anti-Pattern: Why Declaring Vars in Interfaces is Bad"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Functional & Marker Interfaces",
+    "topic": "Annotations vs Tagging Interfaces: Modern Paradigm Shift"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Functional & Marker Interfaces",
+    "topic": "Comparator vs Comparable: External vs Natural Ordering"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Functional & Marker Interfaces",
+    "topic": "AutoCloseable and Closeable: try-with-resources Integration"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Functional & Marker Interfaces",
+    "topic": "Iterable and Iterator: The Engine Behind For-Each Loops"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Functional & Marker Interfaces",
+    "topic": "Spliterator: Parallel Data Decomposition in Streams"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Functional & Marker Interfaces",
+    "topic": "Interface-Driven Design: Decoupling Consumers from Concrete Impls"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Service Providers & Packaging",
+    "topic": "Service Provider Interfaces (SPI) for Pluggable Architecture"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Service Providers & Packaging",
+    "topic": "java.util.ServiceLoader: Dynamic Plugin Discovery"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Service Providers & Packaging",
+    "topic": "META-INF/services Directory Structure and Provider Registration"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Service Providers & Packaging",
+    "topic": "Package Naming Conventions: Reverse Domain (com.company.app)"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Service Providers & Packaging",
+    "topic": "The package Statement and File System Directory Mapping"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Service Providers & Packaging",
+    "topic": "Single-Type Imports vs On-Demand Wildcard (*) Imports"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Service Providers & Packaging",
+    "topic": "Static Imports: Importing Static Functions and Constants Cleanly"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Service Providers & Packaging",
+    "topic": "Package-Private Access Scope: Constructing Internal Subsystems"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Service Providers & Packaging",
+    "topic": "Package-Private Factory Pattern: Exporting Interfaces Only"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Service Providers & Packaging",
+    "topic": "Circular Package Dependencies: Detection and Refactoring"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Java Platform Module System (JPMS)",
+    "topic": "Split Packages: Why Multiple JARs Cannot Share Packages in JPMS"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Java Platform Module System (JPMS)",
+    "topic": "Java 9+ JPMS Architecture: Solving Classic JAR Hell"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Java Platform Module System (JPMS)",
+    "topic": "module-info.java: Declaring Module Names & Directives"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Java Platform Module System (JPMS)",
+    "topic": "The requires Directive: Explicit Compile/Runtime Dependencies"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Java Platform Module System (JPMS)",
+    "topic": "The requires transitive Directive: Implied Dependency Readability"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Java Platform Module System (JPMS)",
+    "topic": "The exports Directive: Exposing Specific Packages for Consumers"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Java Platform Module System (JPMS)",
+    "topic": "The exports ... to Qualified Export: Restricting Module Access"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Java Platform Module System (JPMS)",
+    "topic": "The opens Directive: Permitting Reflection for Frameworks"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Java Platform Module System (JPMS)",
+    "topic": "The uses and provides Directives for Modular SPI Loaders"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Java Platform Module System (JPMS)",
+    "topic": "Named Modules, Unnamed Module, and Automatic Modules"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Modular Tooling & Production Standards",
+    "topic": "ClassPath vs ModulePath: How the JVM Discovers Types"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Modular Tooling & Production Standards",
+    "topic": "jdeps Tool: Static Dependency Analysis & Module Readiness"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Modular Tooling & Production Standards",
+    "topic": "jlink Tool: Generating Custom 35MB Minimal Runtimes"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Modular Tooling & Production Standards",
+    "topic": "Migrating Legacy Multi-JAR Enterprise Systems to Modules"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Modular Tooling & Production Standards",
+    "topic": "Interface Segregation Principle (ISP) in Production APIs"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Modular Tooling & Production Standards",
+    "topic": "Backwards-Compatible API Evolution Using Default Methods"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Modular Tooling & Production Standards",
+    "topic": "Mocking Interfaces in Unit Tests with Mockito Dynamic Proxies"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Modular Tooling & Production Standards",
+    "topic": "java.lang.reflect.Proxy for Runtime Method Interception"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Modular Tooling & Production Standards",
+    "topic": "Enterprise Case Study: Modular Payment Gateway Architecture"
+  },
+  {
+    "course": "Interfaces and Packages",
+    "courseId": 10,
+    "module": "Modular Tooling & Production Standards",
+    "topic": "Best Practices for Robust Interfaces & Packages in Java"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwable Hierarchy & Catch Semantics",
+    "topic": "Throwable Hierarchy: Error vs Exception vs RuntimeException"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwable Hierarchy & Catch Semantics",
+    "topic": "Checked Exceptions: The Philosophy of Recoverable Errors"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwable Hierarchy & Catch Semantics",
+    "topic": "Unchecked Exceptions: Programming Bugs & Precondition Failures"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwable Hierarchy & Catch Semantics",
+    "topic": "Errors (OutOfMemoryError, StackOverflowError): Unrecoverable States"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwable Hierarchy & Catch Semantics",
+    "topic": "Try-Catch Blocks: Execution Flow and Multi-Catch Syntax"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwable Hierarchy & Catch Semantics",
+    "topic": "Ordering Catch Blocks: Subclass Before Superclass Invariance"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwable Hierarchy & Catch Semantics",
+    "topic": "The Finally Block: Guarantees, Return Value Overriding Traps"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwable Hierarchy & Catch Semantics",
+    "topic": "Finally Block Execution When System.exit(0) is Called"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwable Hierarchy & Catch Semantics",
+    "topic": "Try-With-Resources (Java 7+): AutoCloseable Contract"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwable Hierarchy & Catch Semantics",
+    "topic": "Suppressed Exceptions: Handling Primary vs Cleanup Failures"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwing & Custom Exception Design",
+    "topic": "The throw Keyword: Instantiating and Raising Exceptions"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwing & Custom Exception Design",
+    "topic": "The throws Clause: Method Signature Exception Contracts"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwing & Custom Exception Design",
+    "topic": "Exception Chaining: Passing Causes and Root Cause Analysis"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwing & Custom Exception Design",
+    "topic": "Custom Exception Classes: Checked vs Unchecked Design Decisions"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwing & Custom Exception Design",
+    "topic": "Designing Rich Business Domain Exceptions with Error Codes"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwing & Custom Exception Design",
+    "topic": "Standard Runtime Exceptions: IllegalArgument, IllegalState, NPE"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwing & Custom Exception Design",
+    "topic": "NullPointerException: Java 14+ Helpful NPE Diagnostics"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwing & Custom Exception Design",
+    "topic": "IndexOutOfBoundsException and UnsupportedOperationException"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwing & Custom Exception Design",
+    "topic": "ConcurrentModificationException in Collections Iteration"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Throwing & Custom Exception Design",
+    "topic": "ClassCastException and Safe Downcasting Prevention"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "JVM Exception Stack Unwinding",
+    "topic": "Stack Unwinding: How the JVM Traverses the Call Stack"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "JVM Exception Stack Unwinding",
+    "topic": "Throwable.fillInStackTrace() Performance Overhead in Hot Paths"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "JVM Exception Stack Unwinding",
+    "topic": "Lightweight Exceptions Without Stack Traces for Flow Control"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "JVM Exception Stack Unwinding",
+    "topic": "Why Using Exceptions for Normal Control Flow is an Anti-Pattern"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "JVM Exception Stack Unwinding",
+    "topic": "Exception Translation / Wrapping at Architectural Boundaries"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "JVM Exception Stack Unwinding",
+    "topic": "Global Exception Handlers in Spring Boot (@ControllerAdvice)"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "JVM Exception Stack Unwinding",
+    "topic": "Thread-Level UncaughtExceptionHandler for Background Threads"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "JVM Exception Stack Unwinding",
+    "topic": "Handling Exceptions in ForkJoinPool and Parallel Streams"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "JVM Exception Stack Unwinding",
+    "topic": "CompletableFuture.exceptionally and handle Async Recovery"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "JVM Exception Stack Unwinding",
+    "topic": "Checked vs Unchecked Debate: Modern Framework Consensus"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Enterprise Logging & Error Reporting",
+    "topic": "Logging Exceptions: Slf4j, Logback, and Stack Trace Dumps"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Enterprise Logging & Error Reporting",
+    "topic": "Log Injection Vulnerabilities and Defensive Sanitization"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Enterprise Logging & Error Reporting",
+    "topic": "Structured JSON Logging for Distributed Tracing (ELK/Datadog)"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Enterprise Logging & Error Reporting",
+    "topic": "Correlation IDs (MDC - Mapped Diagnostic Context) Tracking"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Enterprise Logging & Error Reporting",
+    "topic": "Circuit Breaker Pattern: Handling Cascading Downstream Failures"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Enterprise Logging & Error Reporting",
+    "topic": "Retry Mechanisms with Exponential Backoff and Jitter"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Enterprise Logging & Error Reporting",
+    "topic": "Fail-Fast vs Fail-Safe Architecture in Distributed Services"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Enterprise Logging & Error Reporting",
+    "topic": "Idempotent Error Recovery in Financial Transaction Systems"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Enterprise Logging & Error Reporting",
+    "topic": "Dead Letter Queues (DLQ) for Unprocessable Messages"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Enterprise Logging & Error Reporting",
+    "topic": "Audit Logging for Security Exceptions and Auth Failures"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Production Resilience & Clean Architecture",
+    "topic": "Clean Up Resources in Native Code and File Descriptors"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Production Resilience & Clean Architecture",
+    "topic": "Handling OutOfMemoryError: Heap Dumps via -XX:+HeapDumpOnOutOfMemoryError"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Production Resilience & Clean Architecture",
+    "topic": "Diagnostic Tools: jstack, jcmd for Exception Thread Inspection"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Production Resilience & Clean Architecture",
+    "topic": "Unit Testing Exceptions with JUnit 5 assertThrows and assertDoesNotThrow"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Production Resilience & Clean Architecture",
+    "topic": "Mocking Exceptions in Service Layers Using Mockito"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Production Resilience & Clean Architecture",
+    "topic": "Fault Injection Testing for Chaos Engineering in Java"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Production Resilience & Clean Architecture",
+    "topic": "Graceful Degradation When Dependencies are Down"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Production Resilience & Clean Architecture",
+    "topic": "Preventing Information Leakage in API Error Responses"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Production Resilience & Clean Architecture",
+    "topic": "Case Study: Designing Resilient Payment Gateway Error Handling"
+  },
+  {
+    "course": "Exception Handling",
+    "courseId": 11,
+    "module": "Production Resilience & Clean Architecture",
+    "topic": "Production Best Practices for Enterprise Exception Handling"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Collection Hierarchies & List Internals",
+    "topic": "Collection Architecture: Iterable, Collection, List, Set, Queue, Map"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Collection Hierarchies & List Internals",
+    "topic": "ArrayList Memory Model: Array Growth (1.5x) and Amortized Cost"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Collection Hierarchies & List Internals",
+    "topic": "LinkedList Doubly-Linked Nodes: Memory Overhead & Cache Misses"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Collection Hierarchies & List Internals",
+    "topic": "ArrayList vs LinkedList Real-World Performance Benchmarks"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Collection Hierarchies & List Internals",
+    "topic": "Vector and Stack: Legacy Synchronized Pitfalls and Modern Alternatives"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Collection Hierarchies & List Internals",
+    "topic": "CopyOnWriteArrayList: Thread-Safe Read-Heavy Collections"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Collection Hierarchies & List Internals",
+    "topic": "Collections.unmodifiableList vs List.of() Immutability Deep Dive"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Collection Hierarchies & List Internals",
+    "topic": "SubList Views: Memory Hazards and Concurrent Modifications"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Collection Hierarchies & List Internals",
+    "topic": "Fast-Fail Iterators: modCount Modification Tracking and Exceptions"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Collection Hierarchies & List Internals",
+    "topic": "Fail-Safe (Weakly Consistent) Iterators in Concurrent Collections"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Set & Map Bucket Architectures",
+    "topic": "HashSet Implementation Backed by Dummy-Value HashMap"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Set & Map Bucket Architectures",
+    "topic": "LinkedHashSet: Doubly-Linked Buckets Preserving Insertion Order"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Set & Map Bucket Architectures",
+    "topic": "TreeSet: Red-Black Self-Balancing Binary Search Tree Guarantees"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Set & Map Bucket Architectures",
+    "topic": "HashMap Bucket Array Layout & Hash Distribution Function"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Set & Map Bucket Architectures",
+    "topic": "HashMap Hash Collisions: Chaining via LinkedLists to Red-Black Trees"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Set & Map Bucket Architectures",
+    "topic": "TREEIFY_THRESHOLD (8) and UNTREEIFY_THRESHOLD (6) Constants in HashMap"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Set & Map Bucket Architectures",
+    "topic": "HashMap Load Factor (0.75) and Power-of-Two Rehashing Math"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Set & Map Bucket Architectures",
+    "topic": "HashMap Infinite Loop Bug in Java 7 Multi-Threaded Rehash"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Set & Map Bucket Architectures",
+    "topic": "LinkedHashMap: Access-Order Sorting for LRU Cache Implementation"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Set & Map Bucket Architectures",
+    "topic": "TreeMap: NavigableMap Operations (ceilingEntry, floorEntry, subMap)"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "High-Concurrency Collections",
+    "topic": "ConcurrentHashMap in Java 7 (Segment Locking) vs Java 8 (CAS & TreeBins)"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "High-Concurrency Collections",
+    "topic": "ConcurrentHashMap size() Calculation via CounterCell Striping"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "High-Concurrency Collections",
+    "topic": "ConcurrentSkipListMap: Lock-Free Skip-List Sorted Map Engine"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "High-Concurrency Collections",
+    "topic": "ConcurrentSkipListSet for Thread-Safe Scalable Sorted Sets"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "High-Concurrency Collections",
+    "topic": "ArrayDeque as the Superior Alternative to Stack and LinkedList"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "High-Concurrency Collections",
+    "topic": "PriorityQueue: Min-Heap Array Storage and Sift-Up/Sift-Down Algorithms"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "High-Concurrency Collections",
+    "topic": "PriorityBlockingQueue: Thread-Safe Unbounded Priority Heap"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "High-Concurrency Collections",
+    "topic": "ArrayBlockingQueue vs LinkedBlockingQueue in Thread Pools"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "High-Concurrency Collections",
+    "topic": "DelayQueue: Time-Delayed Task Scheduling Queue Implementation"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "High-Concurrency Collections",
+    "topic": "SynchronousQueue: Zero-Capacity Direct Hand-Off Channel"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Specialized & Memory-Efficient Collections",
+    "topic": "EnumSet: Bitmask 64-bit Long Representation for Blazing Speed"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Specialized & Memory-Efficient Collections",
+    "topic": "EnumMap: Direct Array Indexing Based on Enum Ordinals"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Specialized & Memory-Efficient Collections",
+    "topic": "IdentityHashMap: Reference Equality (==) Instead of .equals()"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Specialized & Memory-Efficient Collections",
+    "topic": "WeakHashMap: WeakReference Keys for Automatic Cache Eviction"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Specialized & Memory-Efficient Collections",
+    "topic": "Collections Utility Class: binarySearch, reverse, shuffle, rotate"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Specialized & Memory-Efficient Collections",
+    "topic": "Custom Comparator Chaining: Comparator.comparing().thenComparing()"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Specialized & Memory-Efficient Collections",
+    "topic": "Natural Ordering via Comparable vs Contextual Comparators"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Specialized & Memory-Efficient Collections",
+    "topic": "Spliterator Mechanics: tryAdvance, trySplit, characteristics"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Specialized & Memory-Efficient Collections",
+    "topic": "Memory Overhead of Collections: JOL Inspection and Primitives"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Specialized & Memory-Efficient Collections",
+    "topic": "Eclipse Collections / Trove Primitive Collections for Zero-Boxing"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Enterprise Production Engineering",
+    "topic": "Sizing HashMaps Correctly to Eliminate Expensive Runtime Rehashes"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Enterprise Production Engineering",
+    "topic": "Thread-Safe Single-Writer Multi-Reader Collection Patterns"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Enterprise Production Engineering",
+    "topic": "Designing a High-Performance In-Memory Cache with LRU Eviction"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Enterprise Production Engineering",
+    "topic": "Off-Heap Collections for Multi-Gigabyte In-Memory Data Grids"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Enterprise Production Engineering",
+    "topic": "Serialization and Deserialization of Large Collection Graphs"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Enterprise Production Engineering",
+    "topic": "Defensive Copies of Collections in Enterprise Domain Boundaries"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Enterprise Production Engineering",
+    "topic": "Benchmarking Collection Throughput and Latency with JMH"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Enterprise Production Engineering",
+    "topic": "Garbage Collection Impact of High-Frequency Collection Creation"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Enterprise Production Engineering",
+    "topic": "Case Study: High-Frequency Order Book Using PriorityQueue and HashMaps"
+  },
+  {
+    "course": "Java Collections Framework",
+    "courseId": 12,
+    "module": "Enterprise Production Engineering",
+    "topic": "Production Best Practices for Java Collections Framework"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Generics Foundations & Type Erasure",
+    "topic": "Why Generics: Compile-Time Type Safety vs Runtime ClassCastException"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Generics Foundations & Type Erasure",
+    "topic": "Generic Classes: Type Parameters, Conventions (T, E, K, V, U)"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Generics Foundations & Type Erasure",
+    "topic": "Generic Methods: Method-Level Type Parameter Declarations"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Generics Foundations & Type Erasure",
+    "topic": "Type Erasure: How the Compiler Removes Types for Backwards Compatibility"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Generics Foundations & Type Erasure",
+    "topic": "Bytecode Inspection of Type-Erased Code and Synthetic Casts"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Generics Foundations & Type Erasure",
+    "topic": "Bridge Methods Generated by Compiler for Polymorphic Overrides"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Generics Foundations & Type Erasure",
+    "topic": "Primitive Types in Generics: Why List<int> is Prohibited in Current JVM"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Generics Foundations & Type Erasure",
+    "topic": "Array and Generics Incompatibility: Covariant Arrays vs Invariant Generics"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Generics Foundations & Type Erasure",
+    "topic": "Generic Array Creation Prohibition: Why new T[10] Fails to Compile"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Generics Foundations & Type Erasure",
+    "topic": "Workarounds for Generic Arrays: Array.newInstance with Class<T>"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Wildcards & The PECS Principle",
+    "topic": "Unbounded Wildcards (<?>): Reading Known Unknown Types"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Wildcards & The PECS Principle",
+    "topic": "Upper Bounded Wildcards (<? extends T>): Covariant Flexibility"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Wildcards & The PECS Principle",
+    "topic": "Lower Bounded Wildcards (<? super T>): Contravariant Consumption"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Wildcards & The PECS Principle",
+    "topic": "The PECS Principle: Producer Extends, Consumer Super (Effective Java)"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Wildcards & The PECS Principle",
+    "topic": "Wildcard Capture and Helper Methods for Capturing Ambiguous Types"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Wildcards & The PECS Principle",
+    "topic": "Subtyping in Generics: Why List<String> is NOT a Subtype of List<Object>"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Wildcards & The PECS Principle",
+    "topic": "Multiple Bounds on Type Parameters: <T extends Comparable<T> & Serializable>"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Wildcards & The PECS Principle",
+    "topic": "Recursive Type Bounds: <T extends Comparable<T>> for Natural Orderings"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Wildcards & The PECS Principle",
+    "topic": "Self-Referential Generics in Fluent Builder Hierarchies"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Wildcards & The PECS Principle",
+    "topic": "Raw Types: Legacy Interoperability and Severe Type Safety Hazards"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Type Tokens & Reification",
+    "topic": "Reifiable vs Non-Reifiable Types in Java Runtime"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Type Tokens & Reification",
+    "topic": "Type Tokens: Class<T> Parameters for Runtime Type Preservation"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Type Tokens & Reification",
+    "topic": "Super Type Tokens (TypeToken / ParameterizedType) for Generic Deserialization"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Type Tokens & Reification",
+    "topic": "Extracting Generic Types via java.lang.reflect.ParameterizedType"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Type Tokens & Reification",
+    "topic": "Heap Pollution: What Happens When Param Types Reference Incorrect Objects"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Type Tokens & Reification",
+    "topic": "The @SafeVarargs Annotation: Suppressing Varargs Generic Warnings"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Type Tokens & Reification",
+    "topic": "Type Casting with Generics: Unchecked Cast Warnings and @SuppressWarnings"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Type Tokens & Reification",
+    "topic": "Generic Singletons: Collections.emptyList() Shared Object Pattern"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Type Tokens & Reification",
+    "topic": "Type Erasure Impact on Method Overloading Signatures"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Type Tokens & Reification",
+    "topic": "Generic Enums Prohibition & Custom Type-Safe Enum Patterns"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Advanced Generic Patterns",
+    "topic": "Heterogeneous Type-Safe Container Pattern (Effective Java Item 33)"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Advanced Generic Patterns",
+    "topic": "Generic Visitor Pattern for Abstract Syntax Tree Processing"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Advanced Generic Patterns",
+    "topic": "Generic DAO (Data Access Object) Architecture in Enterprise Java"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Advanced Generic Patterns",
+    "topic": "Building Generic Event Bus Systems with Type-Safe Dispatch"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Advanced Generic Patterns",
+    "topic": "Generic Result / Either Types for Railway-Oriented Programming"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Advanced Generic Patterns",
+    "topic": "Generic Functional Interfaces (Function<T, R>, BiFunction<T, U, R>)"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Advanced Generic Patterns",
+    "topic": "Intersection Types in Casts: (Serializable & Runnable) in Lambdas"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Advanced Generic Patterns",
+    "topic": "Curiously Recurring Template Pattern (CRTP) in Java Domain Design"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Advanced Generic Patterns",
+    "topic": "Generic State Machines with Compile-Time Validated Transitions"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Advanced Generic Patterns",
+    "topic": "Type-Safe Entity Component System Architecture in Java"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Future Evolution & Production Standards",
+    "topic": "Project Valhalla: Primitive Specialization and Universal Generics"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Future Evolution & Production Standards",
+    "topic": "Value Types (inline classes) and Future of Generics Without Boxing"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Future Evolution & Production Standards",
+    "topic": "Generic Reflection Performance Considerations in High-Throughput Paths"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Future Evolution & Production Standards",
+    "topic": "Refactoring Untyped Legacy Codebases to Robust Generics"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Future Evolution & Production Standards",
+    "topic": "API Design Guidelines: When to Expose Wildcards to Consumers"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Future Evolution & Production Standards",
+    "topic": "Defensive Parameter Checks in Generic Utility Libraries"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Future Evolution & Production Standards",
+    "topic": "Benchmarking Boxing Overhead in Generic Containers with JMH"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Future Evolution & Production Standards",
+    "topic": "Case Study: Building a High-Performance Generic Circular Buffer"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Future Evolution & Production Standards",
+    "topic": "Case Study: Type-Safe Dynamic Query Builder Engine"
+  },
+  {
+    "course": "Generics",
+    "courseId": 13,
+    "module": "Future Evolution & Production Standards",
+    "topic": "Production Best Practices for Java Generics Architecture"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Fundamentals & JMM",
+    "topic": "Thread Lifecycle: NEW, RUNNABLE, BLOCKED, WAITING, TIMED_WAITING, TERMINATED"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Fundamentals & JMM",
+    "topic": "Thread Creation: Thread Class vs Runnable vs Callable Interfaces"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Fundamentals & JMM",
+    "topic": "Java Memory Model (JMM): Main Memory vs CPU Working Caches"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Fundamentals & JMM",
+    "topic": "The Happens-Before Relationship Guarantees in JMM"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Fundamentals & JMM",
+    "topic": "Instruction Reordering by Compilers and Out-of-Order CPU Execution"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Fundamentals & JMM",
+    "topic": "The volatile Keyword: Cache Invalidation, Read/Write Barriers, No Atomicity"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Fundamentals & JMM",
+    "topic": "Race Conditions and Data Races: Distinctions and Catastrophic Failures"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Fundamentals & JMM",
+    "topic": "Critical Sections and Mutual Exclusion with the synchronized Keyword"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Fundamentals & JMM",
+    "topic": "Synchronized Instance Methods vs Synchronized Static Methods"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Fundamentals & JMM",
+    "topic": "Intrinsic Locks (Monitors) and Reentrancy Mechanics"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Low-Level Synchronization & CAS",
+    "topic": "Wait, Notify, and NotifyAll: Condition Waiting Rules on Object Monitors"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Low-Level Synchronization & CAS",
+    "topic": "Why wait() Must Always Be Evaluated Inside a While Loop"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Low-Level Synchronization & CAS",
+    "topic": "Thread Interruption Protocol: isInterrupted vs Thread.interrupted()"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Low-Level Synchronization & CAS",
+    "topic": "Handling InterruptedException Cleanly Without Swallowing"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Low-Level Synchronization & CAS",
+    "topic": "Thread Sleep, Yield, and Join Coordination Mechanics"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Low-Level Synchronization & CAS",
+    "topic": "Deadlocks: The 4 Coffman Conditions and Resource Ordering Prevention"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Low-Level Synchronization & CAS",
+    "topic": "Livelock and Thread Starvation in Highly Contended Systems"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Low-Level Synchronization & CAS",
+    "topic": "Lock Contention, Lock Coarsening, and Lock Elision by HotSpot JIT"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Low-Level Synchronization & CAS",
+    "topic": "Biased Locking, Lightweight Locking, and Heavyweight Monitor Inflation"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Low-Level Synchronization & CAS",
+    "topic": "Compare-And-Swap (CAS) Hardware Primitives (LOCK CMPXCHG)"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "java.util.concurrent Lock Framework",
+    "topic": "Atomic Variables: AtomicInteger, AtomicReference, AtomicStampedReference"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "java.util.concurrent Lock Framework",
+    "topic": "Striped 64-bit Accumulators: LongAdder and DoubleAdder for Scalability"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "java.util.concurrent Lock Framework",
+    "topic": "ReentrantLock: Explicit Locking, Fairness Settings, and tryLock()"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "java.util.concurrent Lock Framework",
+    "topic": "Condition Objects: Fine-Grained Multi-Condition Waiting in Locks"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "java.util.concurrent Lock Framework",
+    "topic": "ReentrantReadWriteLock: Optimizing Read-Heavy Shared Data Structures"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "java.util.concurrent Lock Framework",
+    "topic": "StampedLock: Optimistic Read Locks for Ultra-Low Latency in Java 8+"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "java.util.concurrent Lock Framework",
+    "topic": "CountDownLatch: Coordinating Thread Launch and Completion Barriers"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "java.util.concurrent Lock Framework",
+    "topic": "CyclicBarrier: Reusable Multi-Thread Rendezvous Synchronization"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "java.util.concurrent Lock Framework",
+    "topic": "Semaphore: Regulating Resource Permits and Rate Limiting"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "java.util.concurrent Lock Framework",
+    "topic": "Exchanger: Two-Thread Bidirectional Data Hand-Off"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Pools & Async Pipelines",
+    "topic": "ExecutorService Architecture and ThreadPoolExecutor Configuration"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Pools & Async Pipelines",
+    "topic": "CorePoolSize, MaximumPoolSize, KeepAliveTime, and WorkQueue Selection"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Pools & Async Pipelines",
+    "topic": "Thread Pool Rejection Execution Handlers (Abort, CallerRuns, Discard)"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Pools & Async Pipelines",
+    "topic": "ScheduledExecutorService for Periodic and Delayed Task Execution"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Pools & Async Pipelines",
+    "topic": "ForkJoinPool: Work-Stealing Algorithm and RecursiveTask Parallelism"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Pools & Async Pipelines",
+    "topic": "CompletableFuture: Asynchronous Non-Blocking Pipelines in Java 8+"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Pools & Async Pipelines",
+    "topic": "Chaining Futures: thenApply, thenCompose, thenCombine, allOf"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Pools & Async Pipelines",
+    "topic": "Exception Handling in CompletableFuture: exceptionally and handle"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Pools & Async Pipelines",
+    "topic": "ThreadLocal Variables: Per-Thread State Isolation & Memory Leak Risks"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Thread Pools & Async Pipelines",
+    "topic": "InheritableThreadLocal: Propagating Context Across Child Threads"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Virtual Threads (Project Loom) & Modern Java",
+    "topic": "Platform Threads (1:1 OS Threads) Scalability Limits and Memory Costs"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Virtual Threads (Project Loom) & Modern Java",
+    "topic": "Virtual Threads (Project Loom) in Java 17/21: M:N User-Space Fibers"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Virtual Threads (Project Loom) & Modern Java",
+    "topic": "Virtual Thread Scheduling on Top of Carrier ForkJoinPools"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Virtual Threads (Project Loom) & Modern Java",
+    "topic": "Continuation Model: Yielding on Blocking I/O Without Consuming OS Threads"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Virtual Threads (Project Loom) & Modern Java",
+    "topic": "Virtual Thread Pinning Traps: synchronized vs ReentrantLock Solutions"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Virtual Threads (Project Loom) & Modern Java",
+    "topic": "ThreadLocal in Virtual Threads: Why Scoped Values Are the Modern Future"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Virtual Threads (Project Loom) & Modern Java",
+    "topic": "Structured Concurrency: Managing Lifetime of Concurrent Subtasks"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Virtual Threads (Project Loom) & Modern Java",
+    "topic": "Thread Dumps Analysis with jstack and VisualVM for Deadlock Hunting"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Virtual Threads (Project Loom) & Modern Java",
+    "topic": "Async Profiler and Java Flight Recorder (JFR) for Concurrency Tuning"
+  },
+  {
+    "course": "Multithreading & Concurrency",
+    "courseId": 14,
+    "module": "Virtual Threads (Project Loom) & Modern Java",
+    "topic": "Production Best Practices for High-Throughput Concurrent Services"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Classic I/O Streams",
+    "topic": "Java I/O Stream Hierarchy: Byte Streams vs Character Streams"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Classic I/O Streams",
+    "topic": "FileInputStream and FileOutputStream for Raw Binary Data"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Classic I/O Streams",
+    "topic": "BufferedInputStream and BufferedOutputStream Buffer Sizing"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Classic I/O Streams",
+    "topic": "FileReader and FileWriter: Character Encoding Considerations"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Classic I/O Streams",
+    "topic": "BufferedReader and BufferedWriter: readLine() Mechanics"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Classic I/O Streams",
+    "topic": "DataInputStream and DataOutputStream: Reading Primitive Types"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Classic I/O Streams",
+    "topic": "ObjectInputStream and ObjectOutputStream: Serialization Streams"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Classic I/O Streams",
+    "topic": "PrintStream and PrintWriter: System.out and Formatted Output"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Classic I/O Streams",
+    "topic": "Piped Streams: Inter-Thread Byte Communication Pipelines"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Classic I/O Streams",
+    "topic": "ByteArrayInputStream and ByteArrayOutputStream In-Memory Buffering"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Modern NIO.2 Path & Files API",
+    "topic": "The Limitations of java.io.File and the Genesis of NIO.2 (JSR 203)"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Modern NIO.2 Path & Files API",
+    "topic": "Path Interface: Paths.get, Path.of, Resolving, Normalizing"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Modern NIO.2 Path & Files API",
+    "topic": "Files Utility Class: createFile, createDirectories, copy, move, delete"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Modern NIO.2 Path & Files API",
+    "topic": "Files.readString and Files.writeString Convenience in Modern Java"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Modern NIO.2 Path & Files API",
+    "topic": "Files.lines for Memory-Efficient Streamed File Processing"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Modern NIO.2 Path & Files API",
+    "topic": "Files.walk and Files.find: Recursive Directory Tree Traversal"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Modern NIO.2 Path & Files API",
+    "topic": "FileStore and FileSystem: Querying Disk Space and Mount Points"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Modern NIO.2 Path & Files API",
+    "topic": "BasicFileAttributes, PosixFileAttributes: Querying OS Metadata"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Modern NIO.2 Path & Files API",
+    "topic": "Atomic File Operations: StandardCopyOption.ATOMIC_MOVE"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Modern NIO.2 Path & Files API",
+    "topic": "WatchService API: Real-Time File System Event Notifications"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Buffers & Channels Architecture",
+    "topic": "NIO Architecture: Buffers, Channels, and Selectors Overview"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Buffers & Channels Architecture",
+    "topic": "ByteBuffer Anatomy: Capacity, Position, Limit, and Mark"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Buffers & Channels Architecture",
+    "topic": "Direct ByteBuffers (Off-Heap) vs Heap ByteBuffers (JVM Heap)"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Buffers & Channels Architecture",
+    "topic": "Buffer Operations: flip(), clear(), rewind(), compact(), mark()"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Buffers & Channels Architecture",
+    "topic": "FileChannel: Reading and Writing Blocks of Binary Data"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Buffers & Channels Architecture",
+    "topic": "Scattering Reads and Gathering Writes with Multiple Buffers"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Buffers & Channels Architecture",
+    "topic": "File Locking: FileChannel.lock() and Shared vs Exclusive Locks"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Buffers & Channels Architecture",
+    "topic": "Memory-Mapped Files (MappedByteBuffer): Multi-Gigabyte Zero-Copy I/O"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Buffers & Channels Architecture",
+    "topic": "Page Faults and OS Virtual Memory Caching in Mapped Files"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Buffers & Channels Architecture",
+    "topic": "Zero-Copy File Transfer Using FileChannel.transferTo / transferFrom"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Non-Blocking & Asynchronous I/O",
+    "topic": "Non-Blocking I/O Concepts: Reactor Pattern vs Proactor Pattern"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Non-Blocking & Asynchronous I/O",
+    "topic": "SocketChannel and ServerSocketChannel in Non-Blocking Mode"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Non-Blocking & Asynchronous I/O",
+    "topic": "Selector Architecture: Registering Channels for Event Readiness"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Non-Blocking & Asynchronous I/O",
+    "topic": "SelectionKey: OP_READ, OP_WRITE, OP_CONNECT, OP_ACCEPT Operations"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Non-Blocking & Asynchronous I/O",
+    "topic": "Multiplexed I/O Event Loop Construction in Java"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Non-Blocking & Asynchronous I/O",
+    "topic": "AsynchronousFileChannel: Future-Based and CompletionHandler-Based I/O"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Non-Blocking & Asynchronous I/O",
+    "topic": "AsynchronousSocketChannel for Non-Blocking Network Clients"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Non-Blocking & Asynchronous I/O",
+    "topic": "Pipe Channel for Inter-Thread Communication in NIO"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Non-Blocking & Asynchronous I/O",
+    "topic": "CharsetEncoder and CharsetDecoder with ByteBuffers"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Non-Blocking & Asynchronous I/O",
+    "topic": "Handling Partial Reads and Chunked Network Packet Assembly"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Enterprise File Systems & Security",
+    "topic": "ZipFileSystemProvider: Mounting ZIP and JAR Archives as FileSystems"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Enterprise File Systems & Security",
+    "topic": "Temporary Files: Files.createTempFile and Automatic Cleanup"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Enterprise File Systems & Security",
+    "topic": "Path Traversal Vulnerabilities (Directory Traversal Attacks) Prevention"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Enterprise File Systems & Security",
+    "topic": "Atomic File Writes via Temporary Swap Patterns"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Enterprise File Systems & Security",
+    "topic": "Streaming Multi-Gigabyte CSV and JSON Files Without Heap Crashes"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Enterprise File Systems & Security",
+    "topic": "High-Performance Log Appenders: Writing Append-Only Logs"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Enterprise File Systems & Security",
+    "topic": "Benchmarking File I/O Throughput with JMH"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Enterprise File Systems & Security",
+    "topic": "Closing Resources Correctly with Try-With-Resources and FileChannel"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Enterprise File Systems & Security",
+    "topic": "Case Study: Building a High-Throughput Log Aggregation Engine"
+  },
+  {
+    "course": "File Handling & NIO",
+    "courseId": 15,
+    "module": "Enterprise File Systems & Security",
+    "topic": "Production Best Practices for Java File & NIO Systems"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "JDBC Architecture & Connections",
+    "topic": "JDBC Architecture: Driver Manager, Drivers (Type 1 to Type 4)"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "JDBC Architecture & Connections",
+    "topic": "Loading Type 4 Pure Java JDBC Drivers with ServiceLoader"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "JDBC Architecture & Connections",
+    "topic": "Database Connection URLs, Credentials, and Properties"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "JDBC Architecture & Connections",
+    "topic": "Connection Object Lifecycle and Socket Connection Overhead"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "JDBC Architecture & Connections",
+    "topic": "Statement Interface: Executing Simple DDL and DQL Queries"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "JDBC Architecture & Connections",
+    "topic": "PreparedStatement: Precompiled SQL and Execution Plan Caching"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "JDBC Architecture & Connections",
+    "topic": "SQL Injection Vulnerabilities and How PreparedStatement Solves Them"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "JDBC Architecture & Connections",
+    "topic": "ResultSet Interface: Cursor Navigation and Type-Safe Extraction"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "JDBC Architecture & Connections",
+    "topic": "Scrollable and Updatable ResultSets: Absolute and Relative Movement"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "JDBC Architecture & Connections",
+    "topic": "Closing Resources: Connection, Statement, ResultSet in Try-With-Resources"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Transactions & ACID Guarantees",
+    "topic": "CallableStatement: Executing Stored Procedures and In/Out Parameters"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Transactions & ACID Guarantees",
+    "topic": "ACID Properties in Relational Databases (Atomicity, Consistency, Isolation, Durability)"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Transactions & ACID Guarantees",
+    "topic": "Manual Transaction Management: setAutoCommit(false), commit(), rollback()"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Transactions & ACID Guarantees",
+    "topic": "Savepoints in JDBC: Partial Transaction Rollbacks via setSavepoint"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Transactions & ACID Guarantees",
+    "topic": "Transaction Isolation Level: READ UNCOMMITTED and Dirty Reads"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Transactions & ACID Guarantees",
+    "topic": "Transaction Isolation Level: READ COMMITTED and Non-Repeatable Reads"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Transactions & ACID Guarantees",
+    "topic": "Transaction Isolation Level: REPEATABLE READ and Phantom Reads"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Transactions & ACID Guarantees",
+    "topic": "Transaction Isolation Level: SERIALIZABLE and Complete Serialization"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Transactions & ACID Guarantees",
+    "topic": "Pessimistic Locking (SELECT ... FOR UPDATE) in JDBC"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Transactions & ACID Guarantees",
+    "topic": "Optimistic Locking with Version Fields to Prevent Lost Updates"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Batching & Performance Engineering",
+    "topic": "Batch Updates: addBatch() and executeBatch() Performance Revolutions"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Batching & Performance Engineering",
+    "topic": "Batch Sizing Strategies (500 vs 5,000 Records) and Memory Usage"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Batching & Performance Engineering",
+    "topic": "Retrieving Auto-Generated Primary Keys via Statement.RETURN_GENERATED_KEYS"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Batching & Performance Engineering",
+    "topic": "ResultSetMetaData: Dynamic Column Introspection and Type Mapping"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Batching & Performance Engineering",
+    "topic": "DatabaseMetaData: Inspecting Catalogs, Tables, and Engine Capabilities"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Batching & Performance Engineering",
+    "topic": "Handling SQL NULL Values: ResultSet.wasNull() Verification"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Batching & Performance Engineering",
+    "topic": "Handling Large Objects: BLOB (Binary) and CLOB (Character) Streaming"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Batching & Performance Engineering",
+    "topic": "SQLException Hierarchy: SQLTransientException vs SQLNonTransientException"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Batching & Performance Engineering",
+    "topic": "SQLWarning and Query Execution Warnings Inspection"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Batching & Performance Engineering",
+    "topic": "ResultSet Fetch Size Tuning (-setFetchSize) for Multi-Million Row Queries"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Connection Pooling with HikariCP",
+    "topic": "Why Connection Pooling is Mandatory in Production Systems"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Connection Pooling with HikariCP",
+    "topic": "HikariCP Architecture: Zero-Overhead High-Performance Pool Design"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Connection Pooling with HikariCP",
+    "topic": "HikariCP Configuration: maximumPoolSize, minimumIdle, connectionTimeout"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Connection Pooling with HikariCP",
+    "topic": "HikariCP Connection Leak Detection: leakDetectionThreshold Tuning"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Connection Pooling with HikariCP",
+    "topic": "DataSource Interface vs DriverManager in Enterprise Java"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Connection Pooling with HikariCP",
+    "topic": "XA Transactions and Two-Phase Commit (2PC) Distributed Transactions"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Connection Pooling with HikariCP",
+    "topic": "Java Transaction API (JTA) and UserTransaction Coordination"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Connection Pooling with HikariCP",
+    "topic": "PreparedStatement Caching at the Driver and Pool Levels"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Connection Pooling with HikariCP",
+    "topic": "Database Health Checks and Keep-Alive Queries (SELECT 1)"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Connection Pooling with HikariCP",
+    "topic": "Graceful Connection Pool Shutdown in Microservice Containers"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Enterprise Data Access Patterns",
+    "topic": "Data Access Object (DAO) Pattern for Decoupled Persistence"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Enterprise Data Access Patterns",
+    "topic": "Repository Pattern: Collection-Like Domain Aggregation"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Enterprise Data Access Patterns",
+    "topic": "RowMapper Pattern for Clean Object-Relational Transformation"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Enterprise Data Access Patterns",
+    "topic": "Lightweight ORMs: Spring JdbcTemplate and JDBI Frameworks"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Enterprise Data Access Patterns",
+    "topic": "Database Migration Tools: Flyway and Liquibase Version Control"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Enterprise Data Access Patterns",
+    "topic": "Managing Connection Pools Under Extreme Spikes (Backpressure)"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Enterprise Data Access Patterns",
+    "topic": "Slow Query Logging and Database Latency Metrics (Micrometer)"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Enterprise Data Access Patterns",
+    "topic": "Unit Testing JDBC Code with Testcontainers and Real PostgreSQL"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Enterprise Data Access Patterns",
+    "topic": "Case Study: Building a High-Throughput Financial Ledger in JDBC"
+  },
+  {
+    "course": "JDBC and Database Connectivity",
+    "courseId": 16,
+    "module": "Enterprise Data Access Patterns",
+    "topic": "Production Best Practices for Enterprise JDBC Connectivity"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Lambdas & Functional Interfaces",
+    "topic": "The Functional Programming Shift in Java: Motivation and Goals"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Lambdas & Functional Interfaces",
+    "topic": "Lambda Expression Syntax, Parameters, Body, and Type Inference"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Lambdas & Functional Interfaces",
+    "topic": "Variable Capture Rules: Effectively Final Local Variables in Lambdas"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Lambdas & Functional Interfaces",
+    "topic": "Functional Interfaces & The @FunctionalInterface Annotation"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Lambdas & Functional Interfaces",
+    "topic": "Predicate<T> Interface: Test, And, Or, Negate Functional Chains"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Lambdas & Functional Interfaces",
+    "topic": "Function<T, R> Interface: Apply, andThen, Compose Transformations"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Lambdas & Functional Interfaces",
+    "topic": "Consumer<T> Interface: Accept and Consumer Chaining with andThen"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Lambdas & Functional Interfaces",
+    "topic": "Supplier<T> Interface: Lazy Value Evaluation and Factories"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Lambdas & Functional Interfaces",
+    "topic": "BiPredicate, BiFunction, BiConsumer for Two-Argument Operations"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Lambdas & Functional Interfaces",
+    "topic": "Primitive Functional Specializations: IntPredicate, LongFunction, etc."
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Method References & Optional",
+    "topic": "Method References: Class::staticMethod Syntax"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Method References & Optional",
+    "topic": "Method References: instance::instanceMethod Syntax"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Method References & Optional",
+    "topic": "Method References: Class::instanceMethod on Unbound Arguments"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Method References & Optional",
+    "topic": "Constructor References: ClassName::new for Object Instantiation"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Method References & Optional",
+    "topic": "Lambda Compilation Under the Hood: invokedynamic & LambdaMetafactory"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Method References & Optional",
+    "topic": "The Optional<T> Class: Banishing NullPointerException Idiomatically"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Method References & Optional",
+    "topic": "Creating Optionals: Optional.of, ofNullable, empty"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Method References & Optional",
+    "topic": "Transforming Optionals: map, flatMap, filter Pipelines"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Method References & Optional",
+    "topic": "Extracting Values: orElse vs orElseGet (Lazy Execution) vs orElseThrow"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Method References & Optional",
+    "topic": "Why Optional Must Never Be Used for Method Parameters or Fields"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Stream API & Intermediate Operations",
+    "topic": "Stream API Overview: Sequence of Elements from a Data Source"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Stream API & Intermediate Operations",
+    "topic": "Streams vs Collections: Computation vs Storage Paradigm"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Stream API & Intermediate Operations",
+    "topic": "Intermediate Operations (Lazy) vs Terminal Operations (Eager)"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Stream API & Intermediate Operations",
+    "topic": "Stream Filtering with filter() and Predicates"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Stream API & Intermediate Operations",
+    "topic": "Stream Transformation with map() and Function Mappings"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Stream API & Intermediate Operations",
+    "topic": "Stream Flattening with flatMap() for Nested Hierarchies"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Stream API & Intermediate Operations",
+    "topic": "Stream Deduplication with distinct() and State Maintenance"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Stream API & Intermediate Operations",
+    "topic": "Stream Sorting with sorted() Natural and Custom Comparators"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Stream API & Intermediate Operations",
+    "topic": "Stream Truncation and Pagination with limit() and skip()"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Stream API & Intermediate Operations",
+    "topic": "Stream Debugging and Inspection with peek()"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Terminal Operations & Custom Collectors",
+    "topic": "Terminal Operations: forEach vs forEachOrdered in Streams"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Terminal Operations & Custom Collectors",
+    "topic": "Search Terminals: findFirst vs findAny and Non-Deterministic Choices"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Terminal Operations & Custom Collectors",
+    "topic": "Match Terminals: anyMatch, allMatch, noneMatch Short-Circuiting"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Terminal Operations & Custom Collectors",
+    "topic": "Reduction Operations: reduce() with Identity, Accumulator, Combiner"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Terminal Operations & Custom Collectors",
+    "topic": "Collect Operations: collect(Collectors.toList(), toSet(), toMap())"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Terminal Operations & Custom Collectors",
+    "topic": "Collectors.groupingBy: Multi-Level Grouping and Categorization"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Terminal Operations & Custom Collectors",
+    "topic": "Collectors.partitioningBy: Boolean Splitting of Stream Data"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Terminal Operations & Custom Collectors",
+    "topic": "Collectors.joining: Delimited String Aggregation from Streams"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Terminal Operations & Custom Collectors",
+    "topic": "Collectors.reducing, summarizingInt, and averagingDouble"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Terminal Operations & Custom Collectors",
+    "topic": "Building Custom Collector Implementations from Scratch"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Parallel Streams & Date-Time API",
+    "topic": "Parallel Streams: Common ForkJoinPool and Parallel Processing"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Parallel Streams & Date-Time API",
+    "topic": "When to Use Parallel Streams: The NQ Model (Size x Complexity)"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Parallel Streams & Date-Time API",
+    "topic": "Parallel Stream Pitfalls: Shared Mutable State & Thread Contention"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Parallel Streams & Date-Time API",
+    "topic": "java.time API: Instant, LocalDate, LocalTime, LocalDateTime"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Parallel Streams & Date-Time API",
+    "topic": "ZonedDateTime and ZoneId: Timezone Computations Done Right"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Parallel Streams & Date-Time API",
+    "topic": "Duration and Period: Machine Time vs Human Calendar Differences"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Parallel Streams & Date-Time API",
+    "topic": "DateTimeFormatter: Thread-Safe Date Parsing vs SimpleDateFormat"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Parallel Streams & Date-Time API",
+    "topic": "TemporalAdjusters: First Day of Month, Next Monday Calculations"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Parallel Streams & Date-Time API",
+    "topic": "CompletableFuture: Asynchronous Non-Blocking Pipelines"
+  },
+  {
+    "course": "Java 8 Features",
+    "courseId": 17,
+    "module": "Parallel Streams & Date-Time API",
+    "topic": "Production Best Practices for Java 8 Functional Architectures"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Linear Structures & Linked Lists",
+    "topic": "Asymptotic Complexity Analysis: Big-O, Big-Omega, Big-Theta"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Linear Structures & Linked Lists",
+    "topic": "Singly Linked List: Custom Node Implementation, Reversal, Cycle Detect"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Linear Structures & Linked Lists",
+    "topic": "Floyd's Tortoise and Hare Cycle Finding Algorithm Proof"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Linear Structures & Linked Lists",
+    "topic": "Doubly Linked List: Insertion, Deletion, and Bi-Directional Traversal"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Linear Structures & Linked Lists",
+    "topic": "Circular Linked List: Josephus Problem Simulation in Java"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Linear Structures & Linked Lists",
+    "topic": "Stack Implementation Using Dynamic Array with Amortized O(1) Push"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Linear Structures & Linked Lists",
+    "topic": "Stack Implementation Using Linked Nodes for Constant Time Ops"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Linear Structures & Linked Lists",
+    "topic": "Queue Implementation Using Ring Buffer / Circular Array"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Linear Structures & Linked Lists",
+    "topic": "Monotonic Stack Pattern for Next Greater Element Problems"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Linear Structures & Linked Lists",
+    "topic": "Monotonic Deque Pattern for Sliding Window Maximum"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Trees & Self-Balancing Structures",
+    "topic": "Binary Search Tree (BST): Insert, Search, and Delete Node Mechanics"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Trees & Self-Balancing Structures",
+    "topic": "Tree Invert, Maximum Depth, and Symmetric Tree Verification"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Trees & Self-Balancing Structures",
+    "topic": "Lowest Common Ancestor (LCA) in BST vs General Binary Tree"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Trees & Self-Balancing Structures",
+    "topic": "Binary Tree Level Order Traversal Using Breadth-First Search (BFS)"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Trees & Self-Balancing Structures",
+    "topic": "AVL Tree: Self-Balancing BST via Left and Right Rotations"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Trees & Self-Balancing Structures",
+    "topic": "Red-Black Tree Properties: Color Invariants and Balancing Rules"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Trees & Self-Balancing Structures",
+    "topic": "Binary Heap (Min-Heap / Max-Heap) Array Representation & Heapify"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Trees & Self-Balancing Structures",
+    "topic": "HeapSort Algorithm: In-Place O(N log N) Sorting Implementation"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Trees & Self-Balancing Structures",
+    "topic": "Trie (Prefix Tree) for High-Speed Word Insertion & Autocomplete"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Trees & Self-Balancing Structures",
+    "topic": "Segment Tree for Range Minimum / Sum Queries with O(log N) Updates"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Advanced Trees & Disjoint Sets",
+    "topic": "Binary Indexed Tree (Fenwick Tree) for Fast Prefix Sum Updates"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Advanced Trees & Disjoint Sets",
+    "topic": "Disjoint Set Union (Union-Find) with Path Compression & Rank"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Advanced Trees & Disjoint Sets",
+    "topic": "Kruskal's Minimum Spanning Tree Using Union-Find"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Advanced Trees & Disjoint Sets",
+    "topic": "Prim's Minimum Spanning Tree Using PriorityQueue"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Advanced Trees & Disjoint Sets",
+    "topic": "Graph Representation: Adjacency Matrix vs Adjacency List Space/Time"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Advanced Trees & Disjoint Sets",
+    "topic": "Breadth-First Search (BFS) for Shortest Path in Unweighted Graphs"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Advanced Trees & Disjoint Sets",
+    "topic": "Depth-First Search (DFS) for Connected Components and Cycle Check"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Advanced Trees & Disjoint Sets",
+    "topic": "Dijkstra's Shortest Path Algorithm Using PriorityQueue"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Advanced Trees & Disjoint Sets",
+    "topic": "Bellman-Ford Algorithm for Graphs with Negative Edge Weights"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Advanced Trees & Disjoint Sets",
+    "topic": "Floyd-Warshall All-Pairs Shortest Path Dynamic Programming"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Topological Sort & Advanced Graphs",
+    "topic": "Topological Sorting: Kahn's Algorithm (Indegree Array with Queue)"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Topological Sort & Advanced Graphs",
+    "topic": "Topological Sorting: DFS Post-Order Stack Traversal"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Topological Sort & Advanced Graphs",
+    "topic": "Tarjan's Algorithm for Strongly Connected Components (SCC)"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Topological Sort & Advanced Graphs",
+    "topic": "Kosaraju's Algorithm for Two-Pass SCC Decomposition"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Topological Sort & Advanced Graphs",
+    "topic": "Bipartite Graph Verification Using Two-Color BFS/DFS"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Topological Sort & Advanced Graphs",
+    "topic": "Network Flow: Ford-Fulkerson Algorithm & Edmonds-Karp Implementation"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Topological Sort & Advanced Graphs",
+    "topic": "Eulerian Path and Circuit Detection (Hierholzer's Algorithm)"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Topological Sort & Advanced Graphs",
+    "topic": "A* Search Algorithm with Heuristic Distance Functions"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Topological Sort & Advanced Graphs",
+    "topic": "Dynamic Programming: 1D DP (Climbing Stairs, Coin Change, LIS)"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Topological Sort & Advanced Graphs",
+    "topic": "Dynamic Programming: 2D DP (0/1 Knapsack, Longest Common Subseq)"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Dynamic Programming & Hard Algorithms",
+    "topic": "Dynamic Programming: Matrix Chain Multiplication and Interval DP"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Dynamic Programming & Hard Algorithms",
+    "topic": "Dynamic Programming: Bitmask DP for Traveling Salesperson Problem"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Dynamic Programming & Hard Algorithms",
+    "topic": "Dynamic Programming with State Machines (Stock Trading Problems)"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Dynamic Programming & Hard Algorithms",
+    "topic": "Divide and Conquer: Median of Two Sorted Arrays (Logarithmic Time)"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Dynamic Programming & Hard Algorithms",
+    "topic": "Sliding Window Technique for Subarray Problems (Two Pointers)"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Dynamic Programming & Hard Algorithms",
+    "topic": "Fast Exponentiation Algorithm: Matrix Exponentiation for Fib(N)"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Dynamic Programming & Hard Algorithms",
+    "topic": "Sieve of Eratosthenes for Prime Number Generation up to 10^7"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Dynamic Programming & Hard Algorithms",
+    "topic": "GCD & LCM via Euclidean Algorithm and Extended Euclidean"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Dynamic Programming & Hard Algorithms",
+    "topic": "Benchmarking Custom Data Structures with JMH in Java 17"
+  },
+  {
+    "course": "Data Structures & Algorithms Using Java",
+    "courseId": 18,
+    "module": "Dynamic Programming & Hard Algorithms",
+    "topic": "Production Best Practices for Algorithmic System Implementation"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Core Java Technical Interview Grilling",
+    "topic": "Deep Dive into Java Object Model & Memory Placement Questions"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Core Java Technical Interview Grilling",
+    "topic": "Tricky Equals and HashCode Scenarios with Inheritance Traps"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Core Java Technical Interview Grilling",
+    "topic": "Why String is Immutable: The 4 Core Architectural Explanations"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Core Java Technical Interview Grilling",
+    "topic": "String Constant Pool: PermGen to Heap Migration Interview Questions"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Core Java Technical Interview Grilling",
+    "topic": "Deep vs Shallow Cloning: Pitfalls of Cloneable in Production"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Core Java Technical Interview Grilling",
+    "topic": "Exception Handling Edge Cases: Finally Block Return Scenarios"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Core Java Technical Interview Grilling",
+    "topic": "ClassLoader Hierarchy and ClassNotFoundException vs NoClassDefFoundError"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Core Java Technical Interview Grilling",
+    "topic": "JVM Stack vs Heap: Where Do Variables Live in Tricky Cases?"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Core Java Technical Interview Grilling",
+    "topic": "Overriding vs Overloading: Resolution with Varargs and Widening"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Core Java Technical Interview Grilling",
+    "topic": "Java Pass-By-Value Proof: Swapping Object References in Interviews"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Concurrency & Multi-Threading Hotspots",
+    "topic": "Volatile vs Synchronized: Memory Visibility vs Mutual Exclusion"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Concurrency & Multi-Threading Hotspots",
+    "topic": "Double-Checked Locking Singleton: Why volatile is Strictly Mandatory"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Concurrency & Multi-Threading Hotspots",
+    "topic": "Deadlock Scenario Live Coding & Automated Thread Dump Diagnosis"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Concurrency & Multi-Threading Hotspots",
+    "topic": "Producer-Consumer Problem: Implementing with wait/notify and Locks"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Concurrency & Multi-Threading Hotspots",
+    "topic": "Thread Safety in HashMap vs ConcurrentHashMap vs Collections.synchronizedMap"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Concurrency & Multi-Threading Hotspots",
+    "topic": "Atomic Variables & Compare-And-Swap (CAS) Hardware Execution"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Concurrency & Multi-Threading Hotspots",
+    "topic": "Thread Pool Starvation & How to Size Worker Pools (CPU vs I/O Bound)"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Concurrency & Multi-Threading Hotspots",
+    "topic": "CompletableFuture Async Chaining Interview Questions"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Concurrency & Multi-Threading Hotspots",
+    "topic": "Virtual Threads (Project Loom) Architecture Interview Questions"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Concurrency & Multi-Threading Hotspots",
+    "topic": "ThreadLocal Pitfalls & Memory Leaks in Web Server Thread Pools"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Collections & Algorithmic Hotspots",
+    "topic": "HashMap Internal Architecture: Treeification Thresholds and Buckets"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Collections & Algorithmic Hotspots",
+    "topic": "ConcurrentHashMap Size CounterCell Striping Architecture"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Collections & Algorithmic Hotspots",
+    "topic": "ArrayList vs LinkedList: Why ArrayList Almost Always Wins in Practice"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Collections & Algorithmic Hotspots",
+    "topic": "Fail-Fast vs Fail-Safe Iterators Internal Mechanics"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Collections & Algorithmic Hotspots",
+    "topic": "LRU Cache Implementation: Using LinkedHashMap vs Custom Doubly-Linked"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Collections & Algorithmic Hotspots",
+    "topic": "Two Sum and 3Sum Optimal Two-Pointer Walkthrough"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Collections & Algorithmic Hotspots",
+    "topic": "Trapping Rain Water: Two-Pointer vs Monotonic Stack Tradeoffs"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Collections & Algorithmic Hotspots",
+    "topic": "LRU Cache Live Coding with O(1) Get and Put Operations"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Collections & Algorithmic Hotspots",
+    "topic": "Top K Frequent Elements: Min-Heap vs Bucket Sort O(N) Approach"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "Collections & Algorithmic Hotspots",
+    "topic": "Number of Islands: BFS vs DFS Matrix Traversal Explanations"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "JVM Internals & Performance Tuning",
+    "topic": "Garbage Collection Generations: Eden, Survivor, Tenured Explained"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "JVM Internals & Performance Tuning",
+    "topic": "G1GC vs ZGC vs Parallel GC: Sizing Pauses for Ultra-Low Latency"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "JVM Internals & Performance Tuning",
+    "topic": "Memory Leak Diagnosis in Java: Profiling with Eclipse Memory Analyzer (MAT)"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "JVM Internals & Performance Tuning",
+    "topic": "Analyzing Thread Dumps to Detect Thread Pool Saturation & Blocked States"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "JVM Internals & Performance Tuning",
+    "topic": "Analyzing GC Logs (-Xlog:gc) to Detect Allocation Pressure & STW Times"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "JVM Internals & Performance Tuning",
+    "topic": "JIT Tiered Compilation: From C1 Client to C2 Server Optimizations"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "JVM Internals & Performance Tuning",
+    "topic": "Escape Analysis & Scalar Replacement: When Objects Are Not on the Heap"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "JVM Internals & Performance Tuning",
+    "topic": "Compressed OOPs (Ordinary Object Pointers) 32GB Boundary Limit"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "JVM Internals & Performance Tuning",
+    "topic": "Metaspace vs PermGen: OutOfMemoryError: Metaspace Troubleshooting"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "JVM Internals & Performance Tuning",
+    "topic": "Java Flight Recorder (JFR) and Mission Control Performance Profiling"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "System Design & Behavioral Mastery",
+    "topic": "Designing a Scalable URL Shortener (Bitly) in Java Microservices"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "System Design & Behavioral Mastery",
+    "topic": "Designing a Distributed Rate Limiter Using Token Bucket & Redis"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "System Design & Behavioral Mastery",
+    "topic": "Designing a Real-Time Notification System with WebSockets & Kafka"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "System Design & Behavioral Mastery",
+    "topic": "Designing an Idempotent Payment Processing Gateway in Java"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "System Design & Behavioral Mastery",
+    "topic": "Handling Distributed Transactions: The SAGA Pattern (Choreography vs Orchestration)"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "System Design & Behavioral Mastery",
+    "topic": "Cache Consistency Strategies: Write-Through, Write-Behind, Cache-Aside"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "System Design & Behavioral Mastery",
+    "topic": "Database Sharding & Connection Pool Sizing for High Concurrency"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "System Design & Behavioral Mastery",
+    "topic": "Architecting Zero-Downtime Blue-Green & Canary Deployments"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "System Design & Behavioral Mastery",
+    "topic": "Behavioral Interview Techniques: STAR Method for Leadership Questions"
+  },
+  {
+    "course": "Java Interview Preparation",
+    "courseId": 19,
+    "module": "System Design & Behavioral Mastery",
+    "topic": "Negotiating Senior Java Engineer Offers & Technical Leadership Standards"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Bytecode & Instrumentation",
+    "topic": "Java Bytecode Architecture: Opcode Set, Stack Machine Execution"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Bytecode & Instrumentation",
+    "topic": "Inspecting Bytecode Using javap -c -v Disassembler"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Bytecode & Instrumentation",
+    "topic": "Java Instrumentation API (java.lang.instrument) Architecture"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Bytecode & Instrumentation",
+    "topic": "Creating Java Agents: Premain vs Agentmain Dynamic Attachment"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Bytecode & Instrumentation",
+    "topic": "Bytecode Manipulation with Byte Buddy Framework"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Bytecode & Instrumentation",
+    "topic": "ClassFile Transformer: Intercepting and Modifying Bytecode at Load Time"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Bytecode & Instrumentation",
+    "topic": "ASM Library: Low-Level Event-Driven Class Visitor Architecture"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Bytecode & Instrumentation",
+    "topic": "Custom Profiling Agent: Measuring Method Execution Times Dynamically"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Bytecode & Instrumentation",
+    "topic": "Replacing Classes at Runtime: HotSwap Limitations and Solutions"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Bytecode & Instrumentation",
+    "topic": "Dynamic Proxies: java.lang.reflect.Proxy vs CGLIB / Byte Buddy"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Unsafe, VarHandles & Memory Access",
+    "topic": "sun.misc.Unsafe: Direct Memory Allocation and Off-Heap Operations"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Unsafe, VarHandles & Memory Access",
+    "topic": "sun.misc.Unsafe: Hardware CAS and Atomic Memory Manipulation"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Unsafe, VarHandles & Memory Access",
+    "topic": "Deprecation of Unsafe and Modern Java Replacements (JEP 471)"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Unsafe, VarHandles & Memory Access",
+    "topic": "VarHandles (java.lang.invoke.VarHandle) Architecture in Java 9+"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Unsafe, VarHandles & Memory Access",
+    "topic": "VarHandle Access Modes: Plain, Opaque, Release/Acquire, Volatile"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Unsafe, VarHandles & Memory Access",
+    "topic": "Fence Operations: VarHandle.fullFence, acquireFence, releaseFence"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Unsafe, VarHandles & Memory Access",
+    "topic": "MethodHandles vs Reflection: Performance and Inlining Advantages"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Unsafe, VarHandles & Memory Access",
+    "topic": "MethodType and LambdaMetafactory for High-Speed Dynamic Invocations"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Unsafe, VarHandles & Memory Access",
+    "topic": "Invokedynamic (Indy) Bytecode Instruction and Bootstrapping Protocols"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Unsafe, VarHandles & Memory Access",
+    "topic": "CallSite Architecture: ConstantCallSite vs MutableCallSite"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Foreign Function & Memory API (Project Panama)",
+    "topic": "Project Panama Overview: Replacing Legacy JNI with Modern APIs"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Foreign Function & Memory API (Project Panama)",
+    "topic": "Foreign Memory Access API: MemorySegment and MemoryLayout"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Foreign Function & Memory API (Project Panama)",
+    "topic": "Arena Allocation: Managing Off-Heap Lifecycles Without Memory Leaks"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Foreign Function & Memory API (Project Panama)",
+    "topic": "Confined vs Shared Arenas: Thread-Confined Memory Operations"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Foreign Function & Memory API (Project Panama)",
+    "topic": "Foreign Linker API: Invoking Native C Functions Directly from Java"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Foreign Function & Memory API (Project Panama)",
+    "topic": "Passing Pointers, Structs, and Callbacks to Native C Libraries"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Foreign Function & Memory API (Project Panama)",
+    "topic": "Comparing JNI Performance vs Foreign Function & Memory (FFM) API"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Foreign Function & Memory API (Project Panama)",
+    "topic": "Zero-Copy Direct Memory Mapping with MemorySegment and Channels"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Foreign Function & Memory API (Project Panama)",
+    "topic": "Vector API (Project Panama): SIMD Hardware Acceleration in Java"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Foreign Function & Memory API (Project Panama)",
+    "topic": "Writing Explicit SIMD Vectorized Matrix Math in Java"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "GraalVM, AOT & High-Performance Runtimes",
+    "topic": "GraalVM Architecture: Truffle Polyglot Engine and Graal JIT Compiler"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "GraalVM, AOT & High-Performance Runtimes",
+    "topic": "Ahead-Of-Time (AOT) Compilation with GraalVM Native Image"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "GraalVM, AOT & High-Performance Runtimes",
+    "topic": "Instant Startup and Sub-50MB Memory Footprints with Native Image"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "GraalVM, AOT & High-Performance Runtimes",
+    "topic": "Native Image Reflection Configuration and Substrate VM Constraints"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "GraalVM, AOT & High-Performance Runtimes",
+    "topic": "Microsecond Garbage Collection with Epsilon (No-Op) GC for CLI Tools"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "GraalVM, AOT & High-Performance Runtimes",
+    "topic": "Shenandoah Low-Pause Garbage Collector Mechanics"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "GraalVM, AOT & High-Performance Runtimes",
+    "topic": "Java Flight Recorder (JFR) Custom Event Creation & Monitoring"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "GraalVM, AOT & High-Performance Runtimes",
+    "topic": "Asynchronous Profiling with async-profiler: Flame Graph Generation"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "GraalVM, AOT & High-Performance Runtimes",
+    "topic": "Hardware Performance Counters: L1 Cache Misses, Branch Mispredictions"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "GraalVM, AOT & High-Performance Runtimes",
+    "topic": "Java Microbenchmark Harness (JMH): BlackHoles, Warmups, and Dead Code"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Advanced Systems Architecture",
+    "topic": "Designing Cache-Friendly, False-Sharing-Resistant Data Structures"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Advanced Systems Architecture",
+    "topic": "Contended Annotation (@Contended) for Cache Line Padding"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Advanced Systems Architecture",
+    "topic": "Disruptor RingBuffer Architecture (LMAX): Zero-Lock Ring Buffers"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Advanced Systems Architecture",
+    "topic": "High-Frequency Trading (HFT) Architecture Patterns in Java"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Advanced Systems Architecture",
+    "topic": "Chronicle Queue: Persistence with Sub-Microsecond IPC Queues"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Advanced Systems Architecture",
+    "topic": "Writing Zero-Allocation Java for Ultra-Low Latency Trading Systems"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Advanced Systems Architecture",
+    "topic": "Garbage-Free Logging and Object Recycling Techniques"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Advanced Systems Architecture",
+    "topic": "Kernel Bypass Networking in Java via Solarflare OpenOnload"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Advanced Systems Architecture",
+    "topic": "Case Study: Building an Ultra-Low-Latency Order Matching Engine"
+  },
+  {
+    "course": "Advanced Java Concepts",
+    "courseId": 20,
+    "module": "Advanced Systems Architecture",
+    "topic": "Production Best Practices for Advanced Systems Engineering"
+  }
+]
